@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DictionaryApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DictionaryApp_jar</output-path>
+    <root id="archive" name="DictionaryApp.jar">
+      <element id="module-output" name="DictionaryApp" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/jl1.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/java-speech-api-1.13.0-SNAPSHOT.jar" />
+    </root>
+  </artifact>
+</component>

@@ -2,6 +2,8 @@ package com.zero;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.UnknownHostException;
+
 import com.darkprograms.speech.synthesiser.SynthesiserV2;
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;
@@ -52,8 +54,7 @@ public class GTTS {
                 //
             } catch (IOException e) {
 
-                e.printStackTrace(); //Print the exception ( we want to know , not hide below our finger , like many developers do...)
-
+                e.printStackTrace(); //Print the exception ( we want to know , not hide below our finger , like many developers do...);
             }
             catch(JavaLayerException e) {
                 e.printStackTrace();

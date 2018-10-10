@@ -1,5 +1,6 @@
 package com.zero;
 
+import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
@@ -7,10 +8,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Controller {
+    public static final int M = 100;
+    private int curI =0;
+    private ArrayList<Word> words;
     private DictionaryManagement dictionaryManagement;
     private GTTS gtts;
     private Mode curMode = Mode.Search;
     private StringBuilder curEnWord;
+    public static  boolean isSearch = true;
     @FXML
     private Label wordLabel;
     @FXML
@@ -26,6 +31,7 @@ public class Controller {
     @FXML
     private Button btnSearch;
 
+
     @FXML
     public void initialize() {
         gtts = new GTTS();
@@ -34,12 +40,6 @@ public class Controller {
         dictionaryManagement = new DictionaryManagement();
         dictionaryManagement.insertFromFile();
         curEnWord = new StringBuilder();
-
-        textSearch.setOnKeyTyped(event -> {
-
-            curEnWord.append(event.getCharacter().toLowerCase().trim());
-            searchFirstSubWordAndUpdateListView();
-        });
         textSearch.setOnKeyReleased(event -> {
             switch (event.getCode()) {
                 case ENTER:
@@ -48,13 +48,37 @@ public class Controller {
 
                     break;
                 default:
-                    curEnWord = new StringBuilder(textSearch.getText().trim().toLowerCase().replace(" +", " ").replace("\n", ""));
-                    searchFirstSubWordAndUpdateListView();
+
+                    if(isSearch) {
+                        System.out.println("search...");
+                        isSearch = false;
+                        try {
+                            Platform.runLater(
+                                    () -> {
+                                        curEnWord = new StringBuilder(textSearch.getText().trim().toLowerCase().replace(" +", " ").replace("\n", ""));
+                                        searchFirstSubWordAndUpdateListView();
+                                        isSearch = true;
+                                        // Update UI here.
+                                    }
+                            );
+
+                            //Start the Thread
+
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
+                    }
                     break;
             }
         });
         wordsLV.setOnMouseClicked(event -> {
             wordsLV.getSelectionModel().getSelectedItems().toString();
+
+        });
+        wordsLV.setOnScroll(event -> {
+
+                if((int) event.getDeltaY() == -40) {
+                }
 
         });
     }
@@ -122,11 +146,17 @@ public class Controller {
     }
 
     private void refreshListView() {
-        ArrayList<Word> words = dictionaryManagement.getDictionary().getWords();
+        words = dictionaryManagement.getDictionary().getWords();
         wordsLV.getItems().clear();
-        for (Word w : words) {
-            wordsLV.getItems().add(new WordLabel(w.getWordTarget(), this));
+        for(int i = curI/M; i < M && i < words.size(); ++i) {
+            wordsLV.getItems().add(new WordLabel(words.get(i).getWordTarget(), this));
         }
+        if(curI < words.size()) {
+            curI += M;
+        } else {
+            curI = 0;
+        }
+
     }
 
     public void onClickSpeakerButton() {

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Utils {
 
     public static Word extractWordFromString(String s) {
-        s.trim().toLowerCase();
+        s = s.trim().toLowerCase();
         int i = 0;
         StringBuilder enWBuilder = new StringBuilder();
 

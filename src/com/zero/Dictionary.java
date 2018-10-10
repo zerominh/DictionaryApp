@@ -3,7 +3,7 @@ package com.zero;
 import java.util.*;
 
 public class Dictionary {
-
+    public static final  int MAX = 30;
     private class WordComparator implements Comparator<Word> {
         public int n= 1;
         @Override
@@ -25,9 +25,9 @@ public class Dictionary {
     public void addWord(Word w) {
         if(mapWords.get(w.getWordTarget()) == null) {
             words.add(w);
-            System.out.println("word added: ." + w.getWordTarget() + ".");
+            System.out.println("word added: " + w.getWordTarget() + ": " + w.getWordExplain());
             mapWords.put(w.getWordTarget(), w.getWordExplain());
-            sort();
+//            sort();
         }
 
     }
@@ -84,6 +84,7 @@ public class Dictionary {
         if(mapWords.get(oldW.getWordTarget()) != null) {
             deleteWord(oldW);
             addWord(newW);
+            sort();
             return true;
         } else {
             return false;

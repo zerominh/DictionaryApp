@@ -20,7 +20,7 @@ public class DictionaryManagement {
     public DictionaryManagement() {dictionary = new Dictionary();}
     public void insertFromCommandline() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Bạn vui lòng nhập số lượng từ vựng");
+        System.out.println("Input number of words you want to add: ");
         int numWords=0;
 
         // input num words
@@ -29,24 +29,24 @@ public class DictionaryManagement {
                 numWords = scanner.nextInt();
 
                 if (numWords <= 0) {
-                    System.out.println("Xin bạn hãy nhập số lượng từ hợp lệ!!!");
+                    System.out.println("Invalid number of words!!!");
                 }
             } else if(scanner.hasNextLine()) {
                 scanner.nextLine();
-                System.out.println("Xin bạn hãy nhập số lượng từ hợp lệ!!!");
+                System.out.println("Input valid number of words, please!!!");
             }
 
         } while (numWords <= 0);
 
         // input list word;
-        System.out.println("Xin bạn hãy nhập từ Tiếng Anh dòng 1!!!");
-        System.out.println("Xin bạn hãy nhập từ Tiếng Việt dòng 2!!!");
+        System.out.println("English word in line 1!!!");
+        System.out.println("Vietnamese meaning in line 2!!!");
         String englishWord, vietnameseWord;
         scanner.nextLine();
         for(int i = 0; i < numWords; ++i) {
-            System.out.println("Xin bạn hãy nhập từ Tiếng Anh:");
+            System.out.println("English word:");
             englishWord = scanner.nextLine().toLowerCase().trim().replaceAll(" +", " ");
-            System.out.println("Xin bạn hãy nhập từ Tiếng Việt:");
+            System.out.println("Vietnamese meaning:");
             vietnameseWord = scanner.nextLine().toLowerCase().trim().replaceAll(" +", " ");
             System.out.println(englishWord + ": " + vietnameseWord);
             dictionary.addWord(new Word(englishWord, vietnameseWord));
@@ -70,6 +70,7 @@ public class DictionaryManagement {
     public void insertFromFile() {
         ClassLoader loader = Main.class.getClassLoader();
         URL path = loader.getResource("com/zero/Main.class");
+        System.out.println("Insert data from file");
         System.out.println("path: " + path.toString());
         String[] prefixPath = path.toString().split("/");
         StringBuilder pBuilder = new StringBuilder();
@@ -92,8 +93,10 @@ public class DictionaryManagement {
             while((line = bufferedReader.readLine()) != null) {
                 dictionary.addWord(Utils.extractWordFromString(line));
             }
+//            dictionary.sort();
             // Always close files.
             bufferedReader.close();
+            dictionary.sort();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -134,47 +137,56 @@ public class DictionaryManagement {
         } else {
             System.out.println("You have input invalid word");
         }
+        dictionary.sort();
 
     }
     public void modifyExistingWordFromCommandline() {
-        System.out.println("Bạn hãy nhập muon sua");
-        System.out.println("Bạn hãy nhập từ Tiếng Anh:");
+        System.out.println("What is English word you want to edit?");
+        System.out.println("English word:");
         String englishWord = Utils.getInputWord();
-        System.out.println("Bạn hãy nhập tu moi");
-        System.out.println("Bạn hãy nhập từ Tiếng Anh:");
+        System.out.println("New English word");
+        System.out.println("Your new English word:");
         String newEngWord = Utils.getInputWord();
-        System.out.println("Bạn hãy nhập từ Tiếng Viet:");
+        System.out.println("Your new Vietnamese meaning:");
         String newViWord = Utils.getInputWord();
         boolean retValue = dictionary.modifyWord(new Word(englishWord, dictionary.findMeaningOfWord(englishWord)),
                 new Word(newEngWord, newViWord));
         if(!retValue) {
-            System.out.println("tu ban muon sua khong ton tai");
+            System.out.println("Your word which you want to edit is not exiting");
         }
     }
     public void deleteExistingWordFromCommandline() {
-        System.out.println("Bạn hãy nhập tu muon xoa");
-        System.out.println("Bạn hãy nhập từ Tiếng Anh:");
+        System.out.println("Which word do you want to delete");
+        System.out.println("You want to delete English word:");
         String enW = Utils.getInputWord();
         boolean retValue = dictionary.deleteWord(new Word(enW, " "));
         if(retValue == false) {
-            System.out.println("Tu ban muon xoa khong ton tai");
+            System.out.println("Word you want to delete is not existing");
         } else {
-            System.out.println("Ban da xoa thanh cong");
+            System.out.println("Delete Successfully");
         }
     }
     public LinkedList<String> searchFirstSubWord(String sub) {
-        System.out.println("searchFirstSubWord");
+        System.out.println("search with First Sub Word: ");
         return dictionary.searchFirstSubWord(sub);
     }
     public void dictionaryExportToFile() {
         ClassLoader loader = Main.class.getClassLoader();
         URL path = loader.getResource("com/zero/Main.class");
+        System.out.println("Insert data from file");
+        System.out.println("path: " + path.toString());
         String[] prefixPath = path.toString().split("/");
         StringBuilder pBuilder = new StringBuilder();
-        for (int i = 1; i < prefixPath.length-1; ++i) {
+        for (int i = 1; i < prefixPath.length-4; ++i) {
             pBuilder.append(prefixPath[i]);
             pBuilder.append('\\');
         }
+        if(prefixPath[prefixPath.length - 4].charAt(prefixPath[prefixPath.length - 4].length()-1) != '!') {
+            pBuilder.append(prefixPath[prefixPath.length - 4]);
+            pBuilder.append('\\');
+        }
+
+
 
 
         try {
@@ -191,6 +203,7 @@ public class DictionaryManagement {
             bufferedWriter.write(line.toString());
             // Always close files.
             bufferedWriter.close();
+            System.out.println("we have export to file: " + pBuilder.append(OUT_FILE_DICT).toString());
         } catch (IOException e) {
             e.printStackTrace();
         }
