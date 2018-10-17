@@ -121,7 +121,7 @@ public class Controller {
         String viW = dictionaryManagement.searchDictionary(searchEnW);
         if (viW != null) {
             wordLabel.setText(searchEnW);
-            explainTextArea.setText(viW);
+            explainTextArea.setText(formatTextArea(viW));
         } else {
             explainTextArea.setText("Not Found!!!");
         }
@@ -160,7 +160,12 @@ public class Controller {
     }
 
     public void onClickSpeakerButton() {
-        gtts.speak(textSearch.getText());
+        if(Utils.netIsAvailable()) {
+            gtts.speak(textSearch.getText());
+        } else {
+            Utils.showAlertWithHeaderText("Please connect internet!!!");
+        }
+
     }
 
     public void onClickCellListView(String text) {
@@ -169,7 +174,7 @@ public class Controller {
         String viW = dictionaryManagement.searchDictionary(text);
         if (viW != null) {
             wordLabel.setText(text);
-            explainTextArea.setText(viW);
+            explainTextArea.setText(formatTextArea(viW));
         } else {
             explainTextArea.setText("Not Found!!!");
         }
@@ -257,6 +262,7 @@ public class Controller {
         }
         Dictionary dictionary = dictionaryManagement.getDictionary();
         dictionary.addWord(new Word(enWord, viWord));
+        dictionary.sort();
         explainTextArea.setText("Completely add word");
     }
     public void onClickedTranslate()
@@ -264,5 +270,34 @@ public class Controller {
         Tranlsate tranlsate = new Tranlsate();
         tranlsate.runApplication(null);
     }
+
+    private String formatTextArea(String s) {
+        int max  = 100;
+        if(s.length() < max) {
+            return s;
+        }
+        int i = s.length()/max;
+        StringBuilder ret = new StringBuilder();
+        int end = 0;
+        int start = 0;
+        while(end < s.length()) {
+            end = start + max;
+            if(end >= s.length()) end = s.length();
+            if(end < s.length()) {
+                while (s.charAt(end) != ' ') {
+                    ++end;
+                    if (end >= s.length()) break;
+                }
+            }
+            ret.append(s.substring(start, end));
+            ret.append('\n');
+            start = end;
+        }
+//        if(i*max < s.length()) {
+//            ret.append(s.substring(i*max));
+//        }
+        return ret.toString();
+    }
+
 
 }

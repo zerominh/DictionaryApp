@@ -103,16 +103,16 @@ public class DictionaryManagement {
     }
     public void dictionaryLookup() {
         Scanner scanner = new Scanner(System.in);
-        if(scanner.hasNextLine()) {
-            scanner.nextLine();
-        }
-        System.out.println("Moi ban nhap tu tra cuu:");
+//        if(scanner.hasNextLine()) {
+//            scanner.nextLine();
+//        }
+        System.out.println("Input your search word:");
         String enW = scanner.nextLine().toLowerCase().trim().replaceAll(" +", " ");
         String viW = dictionary.findMeaningOfWord(enW);
         if(viW != null) {
             System.out.println("Meaning: " + viW);
         } else {
-            System.out.println("Xin loi toi khong tim thay tu "  + enW + " ban can.");
+            System.out.println("Sorry, "  + enW + " is not existing");
         }
 
 
@@ -203,7 +203,7 @@ public class DictionaryManagement {
             bufferedWriter.write(line.toString());
             // Always close files.
             bufferedWriter.close();
-            System.out.println("we have export to file: " + pBuilder.append(OUT_FILE_DICT).toString());
+            System.out.println("we have export to file: " + pBuilder.toString());
         } catch (IOException e) {
             e.printStackTrace();
         }

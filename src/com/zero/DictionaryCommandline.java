@@ -18,6 +18,7 @@ public class DictionaryCommandline {
     }
     public void insertFromCommandline() {
         dictionaryManagement.insertFromCommandline();
+        dictionaryManagement.sortDictionary();
     }
     public void dictionaryBasic() {
         dictionaryManagement.insertFromCommandline();
@@ -33,17 +34,19 @@ public class DictionaryCommandline {
     }
     public void addWordToDictionaryFromCommandLine() {
         dictionaryManagement.addWordToDictionaryFromCommandline();
+        dictionaryManagement.sortDictionary();
     }
 
     public void modifyWordDictionaryFromCommandLine() {
         dictionaryManagement.modifyExistingWordFromCommandline();
+        dictionaryManagement.sortDictionary();
     }
 
     public void deleteWordFromCommandline() {
         dictionaryManagement.deleteExistingWordFromCommandline();
     }
     public void dictionarySearcher() {
-        System.out.println("Hay nhap: ");
+        System.out.println("Input sub start word: ");
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();
         LinkedList<String> retList = dictionaryManagement.searchFirstSubWord(str);

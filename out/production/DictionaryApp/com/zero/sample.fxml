@@ -10,6 +10,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.layout.VBox?>
 
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.zero.Controller">
@@ -34,11 +35,16 @@
    <top>
       <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <children>
-            <Button mnemonicParsing="false" onAction="#onButtonSearchFuncClicked" text="Search" />
+            <Button mnemonicParsing="false" onAction="#onButtonSearchFuncClicked" text="Search" textAlignment="CENTER" />
             <Button mnemonicParsing="false" onAction="#onButtonDeleteFuncClicked" text="Delete" />
             <Button mnemonicParsing="false" onAction="#onButtonEditFuncClicked" text="Edit" />
             <Button mnemonicParsing="false" onAction="#onButtonAddFuncClicked" text="Add" />
             <Button mnemonicParsing="false" onAction="#onClickedTranslate" text="Translate" />
+            <StackPane prefHeight="150.0" prefWidth="200.0" HBox.hgrow="SOMETIMES">
+               <children>
+                  <Label fx:id="name" text="Dictionary" StackPane.alignment="CENTER_RIGHT" />
+               </children>
+            </StackPane>
          </children></HBox>
    </top>
    <center>
@@ -48,6 +54,7 @@
                <children>
                   <Pane prefHeight="32.0" prefWidth="11.0" />
                   <Label fx:id="wordLabel" prefHeight="32.0" prefWidth="169.0" HBox.hgrow="SOMETIMES" />
+                  <Pane prefHeight="32.0" prefWidth="49.0" />
                   <Button minWidth="0.0" mnemonicParsing="false" onAction="#onClickSpeakerButton" text="US" HBox.hgrow="SOMETIMES">
                      <HBox.margin>
                         <Insets />
