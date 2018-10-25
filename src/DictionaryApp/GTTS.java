@@ -37,6 +37,11 @@ public class GTTS {
         synthesizer.setLanguage(lang);
     }
 
+    public void setLang(String lang) {
+        this.lang = lang;
+        synthesizer.setLanguage(lang);
+    }
+
     /**
      * @return the is
      */
@@ -45,6 +50,7 @@ public class GTTS {
     }
 
     public void speak(String text) {
+
         //Create a new Thread because JLayer is running on the current Thread and will make the application to lag
         Thread thread = new Thread(() -> {
             try {

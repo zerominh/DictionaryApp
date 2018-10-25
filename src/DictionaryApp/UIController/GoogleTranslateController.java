@@ -89,9 +89,29 @@ public class GoogleTranslateController implements Initializable {
     }
 
     public void onClickedTranslate() {
+//        String enText = inputWord.getText();
+//        try {
+//            String viText = GoogleTranslate.translate("vi", "en-US", enText);
+//            outputWord.setText(viText);
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
         String enText = inputWord.getText();
         try {
-            String viText = GoogleTranslate.translate("vi", "en-US", enText);
+
+
+            String viText;
+
+
+            String lang = GoogleTranslate.detectLanguage(enText);
+            if(lang.startsWith("vi")) {
+                viText = GoogleTranslate.translate("en-US",
+                        enText);
+            } else {
+                viText = GoogleTranslate.translate("vi",
+                        enText);
+            }
+
             outputWord.setText(viText);
         } catch (IOException e) {
             e.printStackTrace();
@@ -100,21 +120,32 @@ public class GoogleTranslateController implements Initializable {
 
     public void onClickSpeakerButtonInput() {
         GTTS gtts = new GTTS();
+        try {
         if(Utils.netIsAvailable()) {
+            gtts.setLang(GoogleTranslate.detectLanguage(inputWord.getText()));
             gtts.speak(inputWord.getText());
         } else {
             Utils.showAlertWithHeaderText("Please connect internet!!!");
+        }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 
     public void onClickSpeakerButtonOutput() {
         GTTS gtts = new GTTS();
-        if(Utils.netIsAvailable()) {
-            gtts.speak(outputWord.getText());
-        } else {
-            Utils.showAlertWithHeaderText("Please connect internet!!!");
+        try {
+            if (Utils.netIsAvailable()) {
+                gtts.setLang(GoogleTranslate.detectLanguage(outputWord.getText()));
+                gtts.speak(outputWord.getText());
+            } else {
+                Utils.showAlertWithHeaderText("Please connect internet!!!");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
+
 
 
 }

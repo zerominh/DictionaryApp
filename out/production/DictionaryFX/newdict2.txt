@@ -102,3 +102,18 @@ VD: to set a-going+ cho chuyển động, cho chạy (máy...)
 *  (viết tắt) của Ano Domin
 - sau công nguyên
 VD: 1540 a.d.+ năm 1540 sau công nguyên
+
+@a.m.
+^/'ei'em/
+*  phó từ
+- (xem) ante_meridiem
+
+@aard-wolf
+^/'ɑ:d,wulf/
+*  danh từ
+- (động vật học) chó sói đất (Nam Phi)
+
+@aasvogel
+^/'ɑ:sfougəl/
+*  danh từ
+- (động vật học) con kên kên (Nam Phi)

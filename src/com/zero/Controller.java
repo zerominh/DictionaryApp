@@ -1,5 +1,4 @@
 package com.zero;
-
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
@@ -281,6 +280,8 @@ public class Controller {
     {
         Tranlsate tranlsate = new Tranlsate();
         tranlsate.runApplication(null);
+//        DictionaryApp.DictionaryApplication d = new DictionaryApp.DictionaryApplication();
+//        d.runApplication(null);
     }
 
     private String formatTextArea(String s) {
