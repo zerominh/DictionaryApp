@@ -124,6 +124,7 @@ public class Controller {
             explainTextArea.setText(formatTextArea(viW));
         } else {
             explainTextArea.setText("Not Found!!!");
+            wordLabel.setText("");
         }
     }
 
@@ -176,7 +177,9 @@ public class Controller {
             wordLabel.setText(text);
             explainTextArea.setText(formatTextArea(viW));
         } else {
+            wordLabel.setText("");
             explainTextArea.setText("Not Found!!!");
+//            wordLabel.setText("");
         }
     }
 
@@ -217,9 +220,11 @@ public class Controller {
         Dictionary dictionary = dictionaryManagement.getDictionary();
         boolean retValue = dictionary.deleteWord(new Word(enW, " "));
         if (!retValue) {
-            explainTextArea.setText("Tu ban muon xoa khong ton tai");
+            Utils.showInformation("Tu ban muon xoa khong ton tai");
+            wordLabel.setText("");
         } else {
-            explainTextArea.setText("Ban da xoa thanh cong");
+            Utils.showInformation("Ban da xoa thanh cong");
+            wordLabel.setText("");
             refreshListView();
         }
     }
@@ -229,11 +234,13 @@ public class Controller {
         String enWord = Utils.formatString(enText.getText());
         String viWord = Utils.formatString(viText.getText());
         if (enWord.length() == 0) {
-            explainTextArea.setText("English word is empty");
+            Utils.showInformation("English word is empty");
+            wordLabel.setText("");
             return;
         }
         if (viWord.length() == 0) {
-            explainTextArea.setText("Vietnamese word is empty");
+            Utils.showInformation("Vietnamese word is empty");
+            wordLabel.setText("");
             return;
         }
         Dictionary dictionary = dictionaryManagement.getDictionary();
@@ -241,8 +248,10 @@ public class Controller {
                 new Word(enWord, viWord));
         if (!retValue) {
             explainTextArea.setText("Not exiting this word");
+            wordLabel.setText("");
         } else {
             explainTextArea.setText("Completely edit word");
+            wordLabel.setText("");
             enText.setText("");
             viText.setText("");
         }
@@ -253,17 +262,20 @@ public class Controller {
         String enWord = Utils.formatString(textSearch.getText());
         String viWord = Utils.formatString(viText.getText());
         if (enWord.length() == 0) {
-            explainTextArea.setText("English word is empty");
+            Utils.showInformation("English word is empty");
+            wordLabel.setText("");
             return;
         }
         if (viWord.length() == 0) {
-            explainTextArea.setText("Vietnamese word is empty");
+            Utils.showInformation("Vietnamese word is empty");
+            wordLabel.setText("");
             return;
         }
         Dictionary dictionary = dictionaryManagement.getDictionary();
         dictionary.addWord(new Word(enWord, viWord));
         dictionary.sort();
-        explainTextArea.setText("Completely add word");
+        Utils.showInformation("Completely add word");
+        wordLabel.setText("");
     }
     public void onClickedTranslate()
     {
@@ -272,31 +284,49 @@ public class Controller {
     }
 
     private String formatTextArea(String s) {
-        int max  = 100;
-        if(s.length() < max) {
-            return s;
-        }
-        int i = s.length()/max;
-        StringBuilder ret = new StringBuilder();
-        int end = 0;
-        int start = 0;
-        while(end < s.length()) {
-            end = start + max;
-            if(end >= s.length()) end = s.length();
-            if(end < s.length()) {
-                while (s.charAt(end) != ' ') {
-                    ++end;
-                    if (end >= s.length()) break;
-                }
-            }
-            ret.append(s.substring(start, end));
-            ret.append('\n');
-            start = end;
-        }
+//        int max  = 100;
+//        if(s.length() < max) {
+//            return s;
+//        }
+//        int i = s.length()/max;
+//        StringBuilder ret = new StringBuilder();
+//        int end = 0;
+//        int start = 0;
+//        while(end < s.length()) {
+//            end = start + max;
+//            if(end >= s.length()) end = s.length();
+//            if(end < s.length()) {
+//                while (s.charAt(end) != ' ') {
+//                    ++end;
+//                    if (end >= s.length()) break;
+//                }
+//            }
+//            ret.append(s.substring(start, end));
+//            ret.append('\n');
+//            start = end;
+//        }
 //        if(i*max < s.length()) {
 //            ret.append(s.substring(i*max));
 //        }
-        return ret.toString();
+
+//        int i = s.indexOf("<br");
+//        if(i >= 0) {
+//            for (int j = 0; j < i; ++j) {
+//                ret.append(s.charAt(j));
+//            }
+//        }
+//        while(i < s.length()) {
+//
+//        }
+        return s.replaceAll(";", "\n");
+    }
+
+    public void exportFile() {
+
+        String ret = dictionaryManagement.exportDicRetPath();
+        if(!ret.equals("")) {
+            Utils.showInformationTile("We exported to path: ", ret);
+        }
     }
 
 

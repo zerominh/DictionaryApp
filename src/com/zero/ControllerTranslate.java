@@ -17,8 +17,18 @@ public class ControllerTranslate {
         try {
 
 
-            String viText = GoogleTranslate.translate("vi", "en-US",
-                    enText);
+            String viText;
+
+
+            String lang = GoogleTranslate.detectLanguage(enText);
+            if(lang.startsWith("vi")) {
+                viText = GoogleTranslate.translate("en-US",
+                        enText);
+            } else {
+                viText = GoogleTranslate.translate("vi",
+                        enText);
+            }
+
             vi.setText(viText);
         } catch (IOException e) {
             e.printStackTrace();

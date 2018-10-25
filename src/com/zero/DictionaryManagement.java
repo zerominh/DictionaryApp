@@ -208,4 +208,46 @@ public class DictionaryManagement {
             e.printStackTrace();
         }
     }
+
+    public String exportDicRetPath() {
+        ClassLoader loader = Main.class.getClassLoader();
+        URL path = loader.getResource("com/zero/Main.class");
+        System.out.println("Insert data from file");
+        System.out.println("path: " + path.toString());
+        String[] prefixPath = path.toString().split("/");
+        StringBuilder pBuilder = new StringBuilder();
+        for (int i = 1; i < prefixPath.length-4; ++i) {
+            pBuilder.append(prefixPath[i]);
+            pBuilder.append('\\');
+        }
+        if(prefixPath[prefixPath.length - 4].charAt(prefixPath[prefixPath.length - 4].length()-1) != '!') {
+            pBuilder.append(prefixPath[prefixPath.length - 4]);
+            pBuilder.append('\\');
+        }
+
+
+
+
+        try {
+
+            BufferedWriter bufferedWriter =
+                    new BufferedWriter(new FileWriter(pBuilder.append(OUT_FILE_DICT).toString()));
+            ArrayList<Word> words = dictionary.getWords();
+            StringBuilder line = new StringBuilder();
+            for(Word w: words) {
+
+                line.append(w.getWordTarget()).append("\t").append(w.getWordExplain()).append("\n");
+
+            }
+            bufferedWriter.write(line.toString());
+            // Always close files.
+            bufferedWriter.close();
+            System.out.println("we have export to file: " + pBuilder.toString());
+            return pBuilder.toString();
+        } catch (IOException e) {
+            e.printStackTrace();
+            return "";
+        }
+    }
+
 }

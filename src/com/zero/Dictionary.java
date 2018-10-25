@@ -69,10 +69,11 @@ public class Dictionary {
     }
     public boolean deleteWord(Word w) {
         if(mapWords.get(w.getWordTarget()) != null) {
-            mapWords.remove(w.getWordTarget(), w.getWordExplain());
+            mapWords.remove(w.getWordTarget());
 
 
             int retValue = Collections.binarySearch(words, w, Comparator.comparing(Word::getWordTarget));
+
             if(retValue >= 0) {
                  words.remove(retValue);
             }

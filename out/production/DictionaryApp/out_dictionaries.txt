@@ -1,101 +1,398 @@
-aard-wolf	wulf/* danh từ- (động vật học) chó sói đất (nam phi)wulf/* danh từ- (động vật học) chó sói đất (nam phi)
-aardvark	@aardvark* danh từ- (động vật) lợn đất
-aardvarks	@aardvark* danh từ- (động vật) lợn đất
-aardwolf	@aardwolf* danh từ- &lt;động&gt; chó sói đất (nam phi)
-aardwolves	@aardwolf* danh từ- &lt;động&gt; chó sói đất (nam phi)
-aasvogel	@aasvogel /''ɑ:sfougəl/* danh từ- (động vật học) con kên kên (nam phi)
-ab	@ab- (vt của able-bodied seaman) thủy thủ hạng nhất- (vt của bachelor of arts) cử nhân văn chương
-aba	@aba /''ɑ:bə/* danh từ- áo aba (áo ngoài giống hình cái túi người a-rập)
-abac	bản đồ tính '<c><f><i><n><q>@abac abacus- bàn tính toán đồ bản đồ tính
-abaca	@abaca* danh từ- vải dệt bằng tơ chuối abaca ở philipin- cây chuối abaca
-abaci	đỉnh cột@abacus- (tech) bàn toán số nhiều abaci abacuses- bàn tính=to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính- (kiến trúc)- đầu cột đỉnh cột</q></n></i></f></c><c><f><i><n><q>@abacus /''æbəkəs/* danh từ số nhiều abaci abacuses- bàn tính=to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính- (kiến trúc)- đầu cột đỉnh cột@abacus- (tech) bàn toán
-abacist	@abacist* danh từ- người gãy bàn phím- người kế toán
-aback	ngạc nhiên=to be taken aback by the news+ sửng sốt vì cái tin đó trở lại phía sau=to stand aback from+ đứng lùi lại để tránh- (hàng hải) bị thổi ép vào cột buồm (buồm)=to be taken aback+ (hàng hải) bị gió thổi ép vào cột buồm- (nghĩa bóng) sửng sốt ngạc nhiên=to be taken aback by the news+ sửng sốt vì cái tin đó
-abacterial	@abacterial* tính từ- không do vi khuẩn gây ra
-abaction	@abaction* danh từ- (từ pháp) việc gia súc bị bắt trộm
-abactus	@abactus* tính từ- bị trụy thai
-abacus	đỉnh cột@abacus- (tech) bàn toán số nhiều abaci abacuses- bàn tính=to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính- (kiến trúc)- đầu cột đỉnh cột@abacus- (tech) bàn toán
-abacuses	đỉnh cột@abacus- (tech) bàn toán số nhiều abaci abacuses- bàn tính=to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính- (kiến trúc)- đầu cột đỉnh cột@abacus- (tech) bàn toán
-abaddon	địa ngục- con quỷ địa ngục- con quỷ
-abaft	ở phía sau=abaft the mast+ sau cột buồm gần phía bánh lái* giới từ- (hàng hải) sau ở đằng sau ở phía sau=abaft the mast+ sau cột buồm
-abalienate	@abalienate* ngoại động từ- nhường lại tài sản
-abalienated	@abalienate* ngoại động từ- nhường lại tài sản
-abalienates	@abalienate* ngoại động từ- nhường lại tài sản
-abalienating	@abalienate* ngoại động từ- nhường lại tài sản
-abalienation	@abalienation* danh từ- sự nhường lại tài sản
-abalone	nghĩa mỹ) bào ngưæbə''louni/* danh từ- (từ mỹnghĩa mỹ) bào ngư
-abalones	nghĩa mỹ) bào ngưæbə''louni/* danh từ- (từ mỹnghĩa mỹ) bào ngư
+`word`	`word`abridgment sự giảm bớt sự cô gọn sự tóm tắt; bài tóm tắt sách sách tóm tắt; sự hạn chế sự giảm bớt
+aard-wolf	wulf/; danh từ; (động vật học) chó sói đất (nam phi)wulf/; danh từ; (động vật học) chó sói đất (nam phi)
+aardvark	@aardvark; danh từ; (động vật) lợn đất
+aardvarks	@aardvark; danh từ; (động vật) lợn đất
+aardwolf	@aardwolf; danh từ; &lt;động&gt; chó sói đất (nam phi)
+aardwolves	@aardwolf; danh từ; &lt;động&gt; chó sói đất (nam phi)
+aasvogel	@aasvogel /''ɑ:sfougəl/; danh từ; (động vật học) con kên kên (nam phi)
+ab	@ab; (vt của able-bodied seaman) thủy thủ hạng nhất; (vt của bachelor of arts) cử nhân văn chương
+aba	@aba /''ɑ:bə/; danh từ; áo aba (áo ngoài giống hình cái túi người a-rập)
+abac	bản đồ tính '<c><f><i><n><q>@abac abacus; bàn tính toán đồ bản đồ tính
+abaca	@abaca; danh từ; vải dệt bằng tơ chuối abaca ở philipin; cây chuối abaca
+abaci	đỉnh cột;@abacus; (tech) bàn toán số nhiều abaci abacuses; bàn tính;to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính; (kiến trúc); đầu cột đỉnh cột</q></n></i></f></c><c><f><i><n><q>@abacus /''æbəkəs/; danh từ số nhiều abaci abacuses; bàn tính;to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính; (kiến trúc); đầu cột đỉnh cột;@abacus; (tech) bàn toán
+abacist	@abacist; danh từ; người gãy bàn phím; người kế toán
+aback	ngạc nhiên;to be taken aback by the news+ sửng sốt vì cái tin đó trở lại phía sau;to stand aback from+ đứng lùi lại để tránh; (hàng hải) bị thổi ép vào cột buồm (buồm);to be taken aback+ (hàng hải) bị gió thổi ép vào cột buồm; (nghĩa bóng) sửng sốt ngạc nhiên;to be taken aback by the news+ sửng sốt vì cái tin đó
+abacterial	@abacterial; tính từ; không do vi khuẩn gây ra
+abaction	@abaction; danh từ; (từ pháp) việc gia súc bị bắt trộm
+abactus	@abactus; tính từ; bị trụy thai
+abacus	đỉnh cột;@abacus; (tech) bàn toán số nhiều abaci abacuses; bàn tính;to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính; (kiến trúc); đầu cột đỉnh cột;@abacus; (tech) bàn toán
+abacuses	đỉnh cột;@abacus; (tech) bàn toán số nhiều abaci abacuses; bàn tính;to move counters of an abacus; to work an abacus+ tính bằng bàn tính gảy bàn tính; (kiến trúc); đầu cột đỉnh cột;@abacus; (tech) bàn toán
+abaddon	địa ngục; con quỷ địa ngục; con quỷ
+abaft	ở phía sau;abaft the mast+ sau cột buồm gần phía bánh lái; giới từ; (hàng hải) sau ở đằng sau ở phía sau;abaft the mast+ sau cột buồm
+abalienate	@abalienate; ngoại động từ; nhường lại tài sản
+abalienated	@abalienate; ngoại động từ; nhường lại tài sản
+abalienates	@abalienate; ngoại động từ; nhường lại tài sản
+abalienating	@abalienate; ngoại động từ; nhường lại tài sản
+abalienation	@abalienation; danh từ; sự nhường lại tài sản
+abalone	nghĩa mỹ) bào ngưæbə''louni/; danh từ; (từ mỹnghĩa mỹ) bào ngư
+abalones	nghĩa mỹ) bào ngưæbə''louni/; danh từ; (từ mỹnghĩa mỹ) bào ngư
 abampere	1 abampe = 10 ampe) ampe tuyệt đối (đơn vị cường độ tuyệt đối của dòng điện 1 abampe = 10 ampe)
-abandon	bỏ rơi (đ)nghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ=to abandon a hope+ từ bỏ hy vọng=to abandon one''s wife and children+ ruồng bỏ vợ con=to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...)* danh từ- sự phóng túng sự tự do sự buông thả=with abandon+ phóng túng@abandon- (tech) bỏ bỏ rơi (đ)
-abandon call	@abandon call- (tech) gọi bỏ
-abandoned	bỏ rơi (đ) bị ruồng bỏ- phóng đãng truỵ lạc</q></n></i></f></c><c><f><i><n><q>@abandon /ə''bændən/* ngoại động từ- bộm (nhiếp ảnh) (nhiếp ảnh) (từ mỹnghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ=to abandon a hope+ từ bỏ hy vọng=to abandon one''s wife and children+ ruồng bỏ vợ con=to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...)* danh từ- sự phóng túng sự tự do sự buông thả=with abandon+ phóng túng@abandon- (tech) bỏ bỏ rơi (đ)
-abandoner	@abandoner /ə''bændənə/* danh từ- (pháp lý) người rút đơn
-abandoners	@abandoner /ə''bændənə/* danh từ- (pháp lý) người rút đơn
-abandoning	bỏ rơi (đ)nghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ=to abandon a hope+ từ bỏ hy vọng=to abandon one''s wife and children+ ruồng bỏ vợ con=to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...)* danh từ- sự phóng túng sự tự do sự buông thả=with abandon+ phóng túng@abandon- (tech) bỏ bỏ rơi (đ)
-abandonment	từ bỏ (d) sự từ bỏ sự bỏ rơi sự ruồng bỏ- tình trạng bị bỏ rơi tình trạng bị ruồng bỏ- sự phóng túng sự tự do sự buông thả@abandonment- (tech) bỏ từ bỏ (d)
-abandonments	từ bỏ (d) sự từ bỏ sự bỏ rơi sự ruồng bỏ- tình trạng bị bỏ rơi tình trạng bị ruồng bỏ- sự phóng túng sự tự do sự buông thả@abandonment- (tech) bỏ từ bỏ (d)
-abandons	bỏ rơi (đ)nghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ=to abandon a hope+ từ bỏ hy vọng=to abandon one''s wife and children+ ruồng bỏ vợ con=to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...)* danh từ- sự phóng túng sự tự do sự buông thả=with abandon+ phóng túng@abandon- (tech) bỏ bỏ rơi (đ)
-abapikal	@abapikal* tính từ- (sinh học) xa đỉnh; xa ngọn- dưới vực
-abarticular	@abarticular* tính từ- (giải phẫu) học ngoài khớp; trật khớp
-abas	@aba /''ɑ:bə/* danh từ- áo aba (áo ngoài giống hình cái túi người a-rập)
-abase	làm nhục=to abase one-self+ tự hạ mình làm mất thể diện làm nhục=to abase one-self+ tự hạ mình
-abased	làm nhục=to abase one-self+ tự hạ mình làm mất thể diện làm nhục=to abase one-self+ tự hạ mình
+abandon	bỏ rơi (đ)nghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ;to abandon a hope+ từ bỏ hy vọng;to abandon one''s wife and children+ ruồng bỏ vợ con;to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...); danh từ; sự phóng túng sự tự do sự buông thả;with abandon+ phóng túng;@abandon; (tech) bỏ bỏ rơi (đ)
+abandon call	@abandon call; (tech) gọi bỏ
+abandoned	bỏ rơi (đ) bị ruồng bỏ; phóng đãng truỵ lạc</q></n></i></f></c><c><f><i><n><q>@abandon /ə''bændən/; ngoại động từ; bộm (nhiếp ảnh) (nhiếp ảnh) (từ mỹnghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ;to abandon a hope+ từ bỏ hy vọng;to abandon one''s wife and children+ ruồng bỏ vợ con;to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...); danh từ; sự phóng túng sự tự do sự buông thả;with abandon+ phóng túng;@abandon; (tech) bỏ bỏ rơi (đ)
+abandoner	@abandoner /ə''bændənə/; danh từ; (pháp lý) người rút đơn
+abandoners	@abandoner /ə''bændənə/; danh từ; (pháp lý) người rút đơn
+abandoning	bỏ rơi (đ)nghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ;to abandon a hope+ từ bỏ hy vọng;to abandon one''s wife and children+ ruồng bỏ vợ con;to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...); danh từ; sự phóng túng sự tự do sự buông thả;with abandon+ phóng túng;@abandon; (tech) bỏ bỏ rơi (đ)
+abandonment	từ bỏ (d) sự từ bỏ sự bỏ rơi sự ruồng bỏ; tình trạng bị bỏ rơi tình trạng bị ruồng bỏ; sự phóng túng sự tự do sự buông thả;@abandonment; (tech) bỏ từ bỏ (d)
+abandonments	từ bỏ (d) sự từ bỏ sự bỏ rơi sự ruồng bỏ; tình trạng bị bỏ rơi tình trạng bị ruồng bỏ; sự phóng túng sự tự do sự buông thả;@abandonment; (tech) bỏ từ bỏ (d)
+abandons	bỏ rơi (đ)nghĩa mỹ) từ bỏ; bỏ rơi ruồng bỏ;to abandon a hope+ từ bỏ hy vọng;to abandon one''s wife and children+ ruồng bỏ vợ con;to abandon oneself to+ đắm đuối chìm đắm vào (nỗi thất vọng...); danh từ; sự phóng túng sự tự do sự buông thả;with abandon+ phóng túng;@abandon; (tech) bỏ bỏ rơi (đ)
+abapikal	@abapikal; tính từ; (sinh học) xa đỉnh; xa ngọn; dưới vực
+abarticular	@abarticular; tính từ; (giải phẫu) học ngoài khớp; trật khớp
+abas	@aba /''ɑ:bə/; danh từ; áo aba (áo ngoài giống hình cái túi người a-rập)
+abase	làm nhục;to abase one-self+ tự hạ mình làm mất thể diện làm nhục;to abase one-self+ tự hạ mình
+abased	làm nhục;to abase one-self+ tự hạ mình làm mất thể diện làm nhục;to abase one-self+ tự hạ mình
 abasement	sự làm nhục sự làm mất thể diện sự làm nhục
 abasements	sự làm nhục sự làm mất thể diện sự làm nhục
-abases	làm nhục=to abase one-self+ tự hạ mình làm mất thể diện làm nhục=to abase one-self+ tự hạ mình
+abases	làm nhục;to abase one-self+ tự hạ mình làm mất thể diện làm nhục;to abase one-self+ tự hạ mình
 abash	làm luống cuống làm lúng túng làm luống cuống
-abashed	làm luống cuống xấu hổ</q></n></i></f></c><c><f><i><n><q>@abash /ə''bæʃ/* ngoại động từ- làm bối rối làm lúng túng làm luống cuống
+abashed	làm luống cuống xấu hổ</q></n></i></f></c><c><f><i><n><q>@abash /ə''bæʃ/; ngoại động từ; làm bối rối làm lúng túng làm luống cuống
 abashes	làm luống cuống làm lúng túng làm luống cuống
 abashing	làm luống cuống làm lúng túng làm luống cuống
 abashment	sự luống cuống sự lúng túng sự luống cuống
 abashments	sự luống cuống sự lúng túng sự luống cuống
-abasing	làm nhục=to abase one-self+ tự hạ mình làm mất thể diện làm nhục=to abase one-self+ tự hạ mình
+abasing	làm nhục;to abase one-self+ tự hạ mình làm mất thể diện làm nhục;to abase one-self+ tự hạ mình
 abask	trong ánh lửa ấm dưới ánh mặt trời trong ánh lửa ấm
-abatable	có thể thủ tiêu có thể làm yếu đi có thể giảm bớt- có thể hạ có thể bớt- có thể làm nhụt- có thể chấm dứt có thể thanh trừ- (pháp lý) có thể huỷ bỏ có thể thủ tiêu
-abate	ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt=to abate a pain+ làm dịu đau- hạ (giá) bớt (giá)- làm nhụt (nhụt khí...)- làm cùn (lưỡi dao...)- thanh toán làm mất hết (những điều khó chịu bực bội)- (pháp lý) huỷ bỏ thủ tiêu- (kỹ thuật) ram (thép)* nội động từ- dịu đi yếu đi nhụt đi đỡ bớt ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt
-abated	ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt=to abate a pain+ làm dịu đau- hạ (giá) bớt (giá)- làm nhụt (nhụt khí...)- làm cùn (lưỡi dao...)- thanh toán làm mất hết (những điều khó chịu bực bội)- (pháp lý) huỷ bỏ thủ tiêu- (kỹ thuật) ram (thép)* nội động từ- dịu đi yếu đi nhụt đi đỡ bớt ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt
-abatement	sự thủ tiêu=abatement of a contract+ sự huỷ bỏ một hợp đồng sự yếu đi sự nhụt đi sự giảm bớt sự đỡ sự ngớt- sự hạ (giá) sự bớt (giá)- sự chấm dứt sự thanh toán- (pháp lý) sự huỷ bỏ sự thủ tiêu=abatement of a contract+ sự huỷ bỏ một hợp đồng
-abatement cost	@abatement cost- (econ) chi phí kiểm soát; chi phí chống (ô nhiễm)+ chi phí làm giảm sự khó chịu như ô nhiễm hay tắc đường.
-abatements	sự thủ tiêu=abatement of a contract+ sự huỷ bỏ một hợp đồng sự yếu đi sự nhụt đi sự giảm bớt sự đỡ sự ngớt- sự hạ (giá) sự bớt (giá)- sự chấm dứt sự thanh toán- (pháp lý) sự huỷ bỏ sự thủ tiêu=abatement of a contract+ sự huỷ bỏ một hợp đồng
-abater	@abater* danh từ- người giảm bớt- (y học) thuốc làm dịu
-abates	ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt=to abate a pain+ làm dịu đau- hạ (giá) bớt (giá)- làm nhụt (nhụt khí...)- làm cùn (lưỡi dao...)- thanh toán làm mất hết (những điều khó chịu bực bội)- (pháp lý) huỷ bỏ thủ tiêu- (kỹ thuật) ram (thép)* nội động từ- dịu đi yếu đi nhụt đi đỡ bớt ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt
-abating	ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt=to abate a pain+ làm dịu đau- hạ (giá) bớt (giá)- làm nhụt (nhụt khí...)- làm cùn (lưỡi dao...)- thanh toán làm mất hết (những điều khó chịu bực bội)- (pháp lý) huỷ bỏ thủ tiêu- (kỹ thuật) ram (thép)* nội động từ- dịu đi yếu đi nhụt đi đỡ bớt ngớt=paint abates+ cơn đau dịu đi=storm abates+ cơn bão ngớt
-abatis	đống cây cản số nhiều abatis- (quân sự) đống cây chướng ngại đống cây cản
+abatable	có thể thủ tiêu có thể làm yếu đi có thể giảm bớt; có thể hạ có thể bớt; có thể làm nhụt; có thể chấm dứt có thể thanh trừ; (pháp lý) có thể huỷ bỏ có thể thủ tiêu
+abate	ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt;to abate a pain+ làm dịu đau; hạ (giá) bớt (giá); làm nhụt (nhụt khí...); làm cùn (lưỡi dao...); thanh toán làm mất hết (những điều khó chịu bực bội); (pháp lý) huỷ bỏ thủ tiêu; (kỹ thuật) ram (thép); nội động từ; dịu đi yếu đi nhụt đi đỡ bớt ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt
+abated	ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt;to abate a pain+ làm dịu đau; hạ (giá) bớt (giá); làm nhụt (nhụt khí...); làm cùn (lưỡi dao...); thanh toán làm mất hết (những điều khó chịu bực bội); (pháp lý) huỷ bỏ thủ tiêu; (kỹ thuật) ram (thép); nội động từ; dịu đi yếu đi nhụt đi đỡ bớt ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt
+abatement	sự thủ tiêu;abatement of a contract+ sự huỷ bỏ một hợp đồng sự yếu đi sự nhụt đi sự giảm bớt sự đỡ sự ngớt; sự hạ (giá) sự bớt (giá); sự chấm dứt sự thanh toán; (pháp lý) sự huỷ bỏ sự thủ tiêu;abatement of a contract+ sự huỷ bỏ một hợp đồng
+abatement cost	@abatement cost; (econ) chi phí kiểm soát; chi phí chống (ô nhiễm)<br />+ chi phí làm giảm sự khó chịu như ô nhiễm hay tắc đường.
+abatements	sự thủ tiêu;abatement of a contract+ sự huỷ bỏ một hợp đồng sự yếu đi sự nhụt đi sự giảm bớt sự đỡ sự ngớt; sự hạ (giá) sự bớt (giá); sự chấm dứt sự thanh toán; (pháp lý) sự huỷ bỏ sự thủ tiêu;abatement of a contract+ sự huỷ bỏ một hợp đồng
+abater	@abater; danh từ; người giảm bớt; (y học) thuốc làm dịu
+abates	ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt;to abate a pain+ làm dịu đau; hạ (giá) bớt (giá); làm nhụt (nhụt khí...); làm cùn (lưỡi dao...); thanh toán làm mất hết (những điều khó chịu bực bội); (pháp lý) huỷ bỏ thủ tiêu; (kỹ thuật) ram (thép); nội động từ; dịu đi yếu đi nhụt đi đỡ bớt ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt
+abating	ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt làm yếu đi làm giảm bớt;to abate a pain+ làm dịu đau; hạ (giá) bớt (giá); làm nhụt (nhụt khí...); làm cùn (lưỡi dao...); thanh toán làm mất hết (những điều khó chịu bực bội); (pháp lý) huỷ bỏ thủ tiêu; (kỹ thuật) ram (thép); nội động từ; dịu đi yếu đi nhụt đi đỡ bớt ngớt;paint abates+ cơn đau dịu đi;storm abates+ cơn bão ngớt
+abatis	đống cây cản số nhiều abatis; (quân sự) đống cây chướng ngại đống cây cản
 abatised	có đống cây cản có đống cây cản
-abatises	đống cây cản số nhiều abatis- (quân sự) đống cây chướng ngại đống cây cản
+abatises	đống cây cản số nhiều abatis; (quân sự) đống cây chướng ngại đống cây cản
 abattoir	lò sát sinh lò sát sinh
 abattoirs	lò sát sinh lò sát sinh
 abaxial	xa trục xa trục
-abaya	@abaya* danh từ- áo aba (của người a rập)
+abaya	@abaya; danh từ; áo aba (của người a rập)
 abb	sợi khổ (của tấm vải) sợi khổ (của tấm vải)
-abbacies	@abbacy /''æbəsi/* danh từ- chức vị trưởng tu viện; quyền hạn trưởng tu viện
-abbacy	@abbacy /''æbəsi/* danh từ- chức vị trưởng tu viện; quyền hạn trưởng tu viện
-abbatial	@abbatial /ə''beiʃəl/* tính từ- (thuộc) trưởng tu viện
-abbess	@abbess /''æbis/* danh từ- bà trưởng tu viện</q></n></i></f></c><c><f><i><n><q>@abbot /''æbət/* danh từ- cha trưởng tu viện
-abbesses	@abbess /''æbis/* danh từ- bà trưởng tu viện</q></n></i></f></c><c><f><i><n><q>@abbot /''æbət/* danh từ- cha trưởng tu viện
+abbacies	@abbacy /''æbəsi/; danh từ; chức vị trưởng tu viện; quyền hạn trưởng tu viện
+abbacy	@abbacy /''æbəsi/; danh từ; chức vị trưởng tu viện; quyền hạn trưởng tu viện
+abbatial	@abbatial /ə''beiʃəl/; tính từ; (thuộc) trưởng tu viện
+abbess	@abbess /''æbis/; danh từ; bà trưởng tu viện</q></n></i></f></c><c><f><i><n><q>@abbot /''æbət/; danh từ; cha trưởng tu viện
+abbesses	@abbess /''æbis/; danh từ; bà trưởng tu viện</q></n></i></f></c><c><f><i><n><q>@abbot /''æbət/; danh từ; cha trưởng tu viện
 abbey	các bà xơ nhà thờ (lớn) các nhà tu các bà xơ nhà thờ (lớn)
 abbeys	các bà xơ nhà thờ (lớn) các nhà tu các bà xơ nhà thờ (lớn)
-abbo	abbos- người thổ dân; dân cư trú đầu tiên tại địa phương abbos- người thổ dân; dân cư trú đầu tiên tại địa phương
-abbot	@abbot /''æbət/* danh từ- cha trưởng tu viện
-abbots	@abbot /''æbət/* danh từ- cha trưởng tu viện
+abbo	abbos; người thổ dân; dân cư trú đầu tiên tại địa phương abbos; người thổ dân; dân cư trú đầu tiên tại địa phương
+abbot	@abbot /''æbət/; danh từ; cha trưởng tu viện
+abbots	@abbot /''æbət/; danh từ; cha trưởng tu viện
 abbr	chữ viết tắt abbreviation) viết tắt chữ viết tắt
-abbreviate	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...)- (toán học) ước lược rút gọn* tính từ- tương đối ngắn@abbreviate- (tech) rút gọn; viết tắt@abbreviate- viết gọn viết tắt
-abbreviated	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...)- (toán học) ước lược rút gọn* tính từ- tương đối ngắn@abbreviate- (tech) rút gọn; viết tắt@abbreviate- viết gọn viết tắt
-abbreviated address	@abbreviated address- (tech) địa chỉ rút gọn
-abbreviates	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...)- (toán học) ước lược rút gọn* tính từ- tương đối ngắn@abbreviate- (tech) rút gọn; viết tắt@abbreviate- viết gọn viết tắt
-abbreviating	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...)- (toán học) ước lược rút gọn* tính từ- tương đối ngắn@abbreviate- (tech) rút gọn; viết tắt@abbreviate- viết gọn viết tắt
-abbreviation	sự viết tắtbri:vi''eiʃn/* danh từ- sự tóm tắt sự rút ngắn (cuộc đi thăm...)- bài tóm tắt- chữ viết tắt=jan is the abbreviation january+ jan là chữ viết tắt của january- (toán học) sự ước lược sự rút gọn@abbreviation- (tech) sự tóm tắt; chữ viết tắt@abbreviation- sự viết gọn sự viết tắt
-abbreviations	sự viết tắtbri:vi''eiʃn/* danh từ- sự tóm tắt sự rút ngắn (cuộc đi thăm...)- bài tóm tắt- chữ viết tắt=jan is the abbreviation january+ jan là chữ viết tắt của january- (toán học) sự ước lược sự rút gọn@abbreviation- (tech) sự tóm tắt; chữ viết tắt@abbreviation- sự viết gọn sự viết tắt
-abbreviator	@abbreviator /ə''bri:vieitə/* danh từ- người tóm tắt
-abbreviators	@abbreviator /ə''bri:vieitə/* danh từ- người tóm tắt
-abc	cơ sở- &lt;đsắt&gt; bảng chỉ đường theo abc* danh từ- (vt của american broadcasting company) công ty phát thanh truyền hình mỹ- (vt của australian broadcasting commission) uy ban phát thanh truyền hình uc đại lợi cơ sở- &lt;đsắt&gt; bảng chỉ đường theo abc* danh từ- (vt của american broadcasting company) công ty phát thanh truyền hình mỹ- (vt của australian broadcasting commission) uy ban phát thanh truyền hình uc đại lợi
+abbreviate	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...); (toán học) ước lược rút gọn; tính từ; tương đối ngắn;@abbreviate; (tech) rút gọn; viết tắt;@abbreviate; viết gọn viết tắt
+abbreviated	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...); (toán học) ước lược rút gọn; tính từ; tương đối ngắn;@abbreviate; (tech) rút gọn; viết tắt;@abbreviate; viết gọn viết tắt
+abbreviated address	@abbreviated address; (tech) địa chỉ rút gọn
+abbreviates	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...); (toán học) ước lược rút gọn; tính từ; tương đối ngắn;@abbreviate; (tech) rút gọn; viết tắt;@abbreviate; viết gọn viết tắt
+abbreviating	viết tắt viết tắt; rút ngắn lại (cuộc đi thăm...); (toán học) ước lược rút gọn; tính từ; tương đối ngắn;@abbreviate; (tech) rút gọn; viết tắt;@abbreviate; viết gọn viết tắt
+abbreviation	sự viết tắtbri:vi''eiʃn/; danh từ; sự tóm tắt sự rút ngắn (cuộc đi thăm...); bài tóm tắt; chữ viết tắt;jan is the abbreviation january+ jan là chữ viết tắt của january; (toán học) sự ước lược sự rút gọn;@abbreviation; (tech) sự tóm tắt; chữ viết tắt;@abbreviation; sự viết gọn sự viết tắt
+abbreviations	sự viết tắtbri:vi''eiʃn/; danh từ; sự tóm tắt sự rút ngắn (cuộc đi thăm...); bài tóm tắt; chữ viết tắt;jan is the abbreviation january+ jan là chữ viết tắt của january; (toán học) sự ước lược sự rút gọn;@abbreviation; (tech) sự tóm tắt; chữ viết tắt;@abbreviation; sự viết gọn sự viết tắt
+abbreviator	@abbreviator /ə''bri:vieitə/; danh từ; người tóm tắt
+abbreviators	@abbreviator /ə''bri:vieitə/; danh từ; người tóm tắt
+abc	cơ sở; &lt;đsắt&gt; bảng chỉ đường theo abc; danh từ; (vt của american broadcasting company) công ty phát thanh truyền hình mỹ; (vt của australian broadcasting commission) uy ban phát thanh truyền hình uc đại lợi cơ sở; &lt;đsắt&gt; bảng chỉ đường theo abc; danh từ; (vt của american broadcasting company) công ty phát thanh truyền hình mỹ; (vt của australian broadcasting commission) uy ban phát thanh truyền hình uc đại lợi
 abc-book	sách học vần sách học vần
 abcauline	xa thân xa thân
-abdicable	@abdicable- xem abdicate
-abdicant	@abdicant /''æbdikeitə/ (abdicant) /''æbdikənt/* danh từ- người từ bỏ- người thoái vị
-abdicants	@abdicant /''æbdikeitə/ (abdicant) /''æbdikənt/* danh từ- người từ bỏ- người thoái vị
-abdicate	từ ngôi địa vị...)=to abdicate a position+ từ bỏ một địa vị=to abdicate all one''s rights+ từ bỏ mọi quyền lợi* nội động từ- thoái vị từ ngôi
-abdicated	từ ngôi địa vị...)=to abdicate a position+ từ bỏ một địa vị=to abdicate all one''s rights+ từ bỏ mọi quyền lợi* nội động từ- thoái vị từ ngôi
-abdicates	từ ngôi địa vị...)=to abdicate a position+ từ bỏ một địa vị=to abdicate all one''s rights+ từ bỏ mọi quyền lợi* nội động từ- thoái vị từ ngôi
-abdicating	từ ngôi địa vị...)=to abdicate a position+ từ bỏ một địa vị=to abdicate all one''s rights+ từ bỏ mọi quyền lợi* nội động từ- thoái vị từ ngôi
-abdication	quyền lợi...)æbdi''keiʃn/* danh từ- sự thoái vị sự từ ngôi- sự từ bỏ (địa vị chức vụ quyền lợi...)
+abdicable	@abdicable; xem abdicate
+abdicant	@abdicant /''æbdikeitə/ (abdicant) /''æbdikənt/; danh từ; người từ bỏ; người thoái vị
+abdicants	@abdicant /''æbdikeitə/ (abdicant) /''æbdikənt/; danh từ; người từ bỏ; người thoái vị
+abdicate	từ ngôi địa vị...);to abdicate a position+ từ bỏ một địa vị;to abdicate all one''s rights+ từ bỏ mọi quyền lợi; nội động từ; thoái vị từ ngôi
+abdicated	từ ngôi địa vị...);to abdicate a position+ từ bỏ một địa vị;to abdicate all one''s rights+ từ bỏ mọi quyền lợi; nội động từ; thoái vị từ ngôi
+abdicates	từ ngôi địa vị...);to abdicate a position+ từ bỏ một địa vị;to abdicate all one''s rights+ từ bỏ mọi quyền lợi; nội động từ; thoái vị từ ngôi
+abdicating	từ ngôi địa vị...);to abdicate a position+ từ bỏ một địa vị;to abdicate all one''s rights+ từ bỏ mọi quyền lợi; nội động từ; thoái vị từ ngôi
+abdication	quyền lợi...)æbdi''keiʃn/; danh từ; sự thoái vị sự từ ngôi; sự từ bỏ (địa vị chức vụ quyền lợi...)
+abdications	quyền lợi...)æbdi''keiʃn/; danh từ; sự thoái vị sự từ ngôi; sự từ bỏ (địa vị chức vụ quyền lợi...)
+abdicator	@abdicator /''æbdikeitə/ (abdicant) /''æbdikənt/; danh từ; người từ bỏ; người thoái vị
+abdicators	@abdicator /''æbdikeitə/ (abdicant) /''æbdikənt/; danh từ; người từ bỏ; người thoái vị
+abdomen	@abdomen /''æbdəmen/; danh từ; bụng
+abdomens	@abdomen /''æbdəmen/; danh từ; bụng
+abdominal	@abdominal /æb''dɔminl/; tính từ; (thuộc) bụng; ở bụng;an abdominal operation+ phẫu thuật ở bụng;abdominal cavity+ khoang bụng
+abdominally	@abdominally; phó từ; (thuộc) bụng; ở bụng
+abdominous	@abdominous /æb''dɔminəs/; tính từ; phệ bụng
+abducens	@abducens; danh từ; dây thần kinh não vi ra ngoài
+abducent	giạng ra giạng ra
+abducentes	@abducens; danh từ; dây thần kinh não vi ra ngoài
+abduct	giạng ra cuỗm đi lừa đem đi (người đàn bà...); (giải phẫu) rẽ ra giạng ra
+abducted	giạng ra cuỗm đi lừa đem đi (người đàn bà...); (giải phẫu) rẽ ra giạng ra
+abducting	giạng ra cuỗm đi lừa đem đi (người đàn bà...); (giải phẫu) rẽ ra giạng ra
+abduction	sự lừa đem đi; (giải phẫu) sự giạng ra sự bắt đi sự cuỗm đi sự lừa đem đi; (giải phẫu) sự giạng ra
+abductions	sự lừa đem đi; (giải phẫu) sự giạng ra sự bắt đi sự cuỗm đi sự lừa đem đi; (giải phẫu) sự giạng ra
+abductor	người lừa đem đi; (giải phẫu) cơ giạng ((cũng) abductor muscle) người cuỗm đi người lừa đem đi; (giải phẫu) cơ giạng ((cũng) abductor muscle)
+abductors	người lừa đem đi; (giải phẫu) cơ giạng ((cũng) abductor muscle) người cuỗm đi người lừa đem đi; (giải phẫu) cơ giạng ((cũng) abductor muscle)
+abducts	giạng ra cuỗm đi lừa đem đi (người đàn bà...); (giải phẫu) rẽ ra giạng ra
+abeam	(hàng không) đâm ngang sườn;abeam of us+ ngang sườn chúng tôi; sóng ngang với chúng tôi (hàng không) đâm ngang sườn;abeam of us+ ngang sườn chúng tôi; sóng ngang với chúng tôi
+abearance	@abearance; danh từ; phẩm hạnh; good abearance+phẩm hạnh tốt
+abecedarian	nghĩa mỹ) học sinh vỡ lòngeibi:si:''deəriən/; tính từ; sắp xếp theo thứ tự abc; sơ đẳng; dốt nát; danh từ; (từ mỹnghĩa mỹ) học sinh vỡ lòng
+abecedarians	nghĩa mỹ) học sinh vỡ lòngeibi:si:''deəriən/; tính từ; sắp xếp theo thứ tự abc; sơ đẳng; dốt nát; danh từ; (từ mỹnghĩa mỹ) học sinh vỡ lòng
+abecedaries	@abecedaries; danh từ; sách vỡ lòng; sách vần; điều sơ bộ; điều sơ đẳng
+abed	@abed /ə''bed/; phó từ; ở trên giường;to lie abed+ nằm ở trên giường
+abele	@abele /ə''bi:l/; danh từ; (thực vật học) cây bạch dương
+abelmosk	@abelmosk /''eibəlmɔsk/; danh từ; (thực vật học) cây vông vàng
+abend (abnormal ending)	@abend (abnormal ending); (tech) kết thúc/chấm dứt bất thường
+abenteric	xa ruột xa ruột
+aberrance	@aberrance /æ''berəns/ (aberrancy) /æ''berənsi/; danh từ; sự lầm lạc; (sinh vật học) sự khác thường
+aberrances	@aberrance /æ''berəns/ (aberrancy) /æ''berənsi/; danh từ; sự lầm lạc; (sinh vật học) sự khác thường
+aberrancies	@aberrancy /æ''berəns/ (aberrancy) /æ''berənsi/; danh từ; sự lầm lạc; (sinh vật học) sự khác thường
+aberrancy	@aberrancy /æ''berəns/ (aberrancy) /æ''berənsi/; danh từ; sự lầm lạc; (sinh vật học) sự khác thường
+aberrant	@aberrant /æ''berənt/; tính từ; lầm lạc; (sinh vật học) khác thường
+aberrantly	@aberrantly; xem aberrant
+aberration	sự loạn trí; sự khác thường; (vật lý) quang sai;lateral aberration+ quang sai ngang; (thiên văn học) tính sai;secular aberration+ tính sai trường kỳ;annual aberration+ tính sai hằng năm;@aberration; (tech) quang sai;@aberration; (vật lí) quang sai sự loạn trí; sự khác thường; (vật lý) quang sai;lateral aberration+ quang sai ngang; (thiên văn học) tính sai;secular aberration+ tính sai trường kỳ;annual aberration+ tính sai hằng năm;@aberration; (tech) quang sai;@aberration; (vật lí) quang sai
+aberrations	sự loạn trí; sự khác thường; (vật lý) quang sai;lateral aberration+ quang sai ngang; (thiên văn học) tính sai;secular aberration+ tính sai trường kỳ;annual aberration+ tính sai hằng năm;@aberration; (tech) quang sai;@aberration; (vật lí) quang sai sự loạn trí; sự khác thường; (vật lý) quang sai;lateral aberration+ quang sai ngang; (thiên văn học) tính sai;secular aberration+ tính sai trường kỳ;annual aberration+ tính sai hằng năm;@aberration; (tech) quang sai;@aberration; (vật lí) quang sai
+abet	khích; tiếp tay (ai làm bậy) xúi giục khích; tiếp tay (ai làm bậy)
+abetment	sự khích; sự tiếp tay sự xúi giục sự khích; sự tiếp tay
+abets	khích; tiếp tay (ai làm bậy) xúi giục khích; tiếp tay (ai làm bậy)
+abettal	sự khích; sự tiếp tay sự xúi giục sự khích; sự tiếp tay
+abette	@abette /ə''betə/ (abettor) /ə''betə/; danh từ; kẻ xúi giục; kẻ tiếp tay
+abetted	khích; tiếp tay (ai làm bậy) xúi giục khích; tiếp tay (ai làm bậy)
+abetter	@abetter; danh từ; kẻ xúi giục; kẻ tiếp tay
+abetters	@abetter; danh từ; kẻ xúi giục; kẻ tiếp tay
+abetting	khích; tiếp tay (ai làm bậy) xúi giục khích; tiếp tay (ai làm bậy)
+abettor	@abettor /ə''betə/ (abettor) /ə''betə/; danh từ; kẻ xúi giục; kẻ tiếp tay
+abettors	@abettor /ə''betə/ (abettor) /ə''betə/; danh từ; kẻ xúi giục; kẻ tiếp tay
+abeyance	tình trạng khuyết (một chức vị) sự hoãn lại sự tạm thời không áp dụng (đạo luật...);to be in abeyance; to fall into abeyance+ bị đình chỉ bị hoãn lại tạm thời không được áp dụng; (pháp lý) tình trạng tạm thời không có người nhận; tình trạng tạm thời vô chủ;lands in abeyance+ đất vô thừa nhận đất vô chủ; tình trạng trống tình trạng khuyết (một chức vị)
+abeyances	tình trạng khuyết (một chức vị) sự hoãn lại sự tạm thời không áp dụng (đạo luật...);to be in abeyance; to fall into abeyance+ bị đình chỉ bị hoãn lại tạm thời không được áp dụng; (pháp lý) tình trạng tạm thời không có người nhận; tình trạng tạm thời vô chủ;lands in abeyance+ đất vô thừa nhận đất vô chủ; tình trạng trống tình trạng khuyết (một chức vị)
+abeyant	tạm nghỉ hoạt động tạm nghỉ hoạt động
+abhor	@abhor /əb''hɔ:/; ngoại động từ; ghê tởm; ghét cay ghét đắng
+abhorred	@abhor /əb''hɔ:/; ngoại động từ; ghê tởm; ghét cay ghét đắng
+abhorrence	@abhorrence /əb''hɔrəns/; danh từ; sự ghê tởm;to have an abhorrence of+ sự ghét cay ghét đắng;to hold in abhorrence of+ ghê tởm; ghét cay ghét đắng; điều ghê tởm; cái bị ghét cay ghét đắng
+abhorrences	@abhorrence /əb''hɔrəns/; danh từ; sự ghê tởm;to have an abhorrence of+ sự ghét cay ghét đắng;to hold in abhorrence of+ ghê tởm; ghét cay ghét đắng; điều ghê tởm; cái bị ghét cay ghét đắng
+abhorrent	ghét cay ghét đắng cái gì đáng ghét;to be abhorrent to someone+ ghê tởm đối với ai bị ai ghê tởm bị ai ghét cay ghét đắng; (+ from) trái với mâu thuẫn với không hợp với;conduct abhorrent from principles+ tư cách mâu thuẫn với phép tắc; (từ cổnghĩa cổ) (+ of) ghê tởm ghét cay ghét đắng;to be abhorrent of something+ ghê tởm cái gì ghét cay ghét đắng cái gì
+abhorrently	@abhorrently; xem abhorrent
+abhorrer	@abhorrer; xem abhor
+abhorrers	@abhorrer; xem abhor
+abhorring	@abhor /əb''hɔ:/; ngoại động từ; ghê tởm; ghét cay ghét đắng
+abhors	@abhor /əb''hɔ:/; ngoại động từ; ghê tởm; ghét cay ghét đắng
+abidance	sự tuân theo luật lệ; (+ in) sự tồn tại; sự kéo dài sự tuân theo sự thi hành đúng;abidance by rules+ sự tôn trọng luật lệ sự tuân theo luật lệ; (+ in) sự tồn tại; sự kéo dài
+abide	chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công) abide); tồn tại; kéo dài;this mistake will not abide for ever+ sai lầm này sẽ không thể kéo dài mãi được; (+ by) tôn trọng giữ tuân theo chịu theo; trung thành với;to abide by one''s friend+ trung thành với bạn; (từ cổnghĩa cổ) ở ngụ tại;to abide with somebody+ ở với ai; ngoại động từ; chờ chờ đợi;to abide one''s time+ chờ thời cơ; chịu đựng chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công)
+abided	chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công) abide); tồn tại; kéo dài;this mistake will not abide for ever+ sai lầm này sẽ không thể kéo dài mãi được; (+ by) tôn trọng giữ tuân theo chịu theo; trung thành với;to abide by one''s friend+ trung thành với bạn; (từ cổnghĩa cổ) ở ngụ tại;to abide with somebody+ ở với ai; ngoại động từ; chờ chờ đợi;to abide one''s time+ chờ thời cơ; chịu đựng chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công)
+abider	abider `word` `word`abides chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công) abide); tồn tại; kéo dài;this mistake will not abide for ever+ sai lầm này sẽ không thể kéo dài mãi được; (+ by) tôn trọng giữ tuân theo chịu theo; trung thành với;to abide by one''s friend+ trung thành với bạn; (từ cổnghĩa cổ) ở ngụ tại;to abide with somebody+ ở với ai; ngoại động từ; chờ chờ đợi;to abide one''s time+ chờ thời cơ; chịu đựng chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công)
+abiding	chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công) vĩnh cửu tồn tại mãi mãi</q></n></i></f></c><c><f><i><n><q>@abide /ə''baid/; nội động từ (abode; abode abide); tồn tại; kéo dài;this mistake will not abide for ever+ sai lầm này sẽ không thể kéo dài mãi được; (+ by) tôn trọng giữ tuân theo chịu theo; trung thành với;to abide by one''s friend+ trung thành với bạn; (từ cổnghĩa cổ) ở ngụ tại;to abide with somebody+ ở với ai; ngoại động từ; chờ chờ đợi;to abide one''s time+ chờ thời cơ; chịu đựng chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công)
+abidingly	@abidingly; xem abiding
+abience	@abience; danh từ; sự tránh kích thích
+abient	@abient; tính từ; tránh kích thích
+abies	@abies; danh từ; (thực vật) cây linh sam
+abietene	@abietene /''æbiəti:n/; danh từ; (hoá học) abietin
+abigail	nữ tỳ nữ tỳ
+abigails	nữ tỳ nữ tỳ
+abilitate	nghĩa hiếm) (như) habiliatenghĩa hiếm) (như) habiliate
+abilities	nguồn vốn (để đáp ứng khi cần thiết);to be best of one''s ability+ với tư cách khả năng của mình;@ability; khả năng khả năng (làm việc gì); (số nhiều) tài năng tài cán;a man of abilities+ một người tài năng; (pháp lý); thẩm quyền; (thương nghiệp) khả năng thanh toán được; vốn sẵn có nguồn vốn (để đáp ứng khi cần thiết);to be best of one''s ability+ với tư cách khả năng của mình;@ability; khả năng
+ability	nguồn vốn (để đáp ứng khi cần thiết);to be best of one''s ability+ với tư cách khả năng của mình;@ability; khả năng khả năng (làm việc gì); (số nhiều) tài năng tài cán;a man of abilities+ một người tài năng; (pháp lý); thẩm quyền; (thương nghiệp) khả năng thanh toán được; vốn sẵn có nguồn vốn (để đáp ứng khi cần thiết);to be best of one''s ability+ với tư cách khả năng của mình;@ability; khả năng
+ability and earnings	làm tăng khả năng là phần lớn lợi tức được ước tính do giáo dục trên thực tế cũng chính là lợi tức do năng lực làm tăng khả năng là phần lớn lợi tức được ước tính do giáo dục trên thực tế cũng chính là lợi tức do năng lực
+ability to pay	@ability to pay; (econ) khả năng chi trả.
+ability to pay theory	tuỳ thuộc vào thước đo được sử dụng và độ dốc giả định của đồ thị thoả dụng biên của thu nhập. tỷ lệ hay luỹ thoái tuỳ thuộc vào thước đo được sử dụng và độ dốc giả định của đồ thị thoả dụng biên của thu nhập.
+abiogeneses	eibai''ɔdʤini/; danh từ; (sinh vật học) sự phát sinh tự nhiêneibaiou''dʤenisis/ (abiogeny) /eibai''ɔdʤini/; danh từ; (sinh vật học) sự phát sinh tự nhiên
+abiogenesis	eibai''ɔdʤini/; danh từ; (sinh vật học) sự phát sinh tự nhiêneibaiou''dʤenisis/ (abiogeny) /eibai''ɔdʤini/; danh từ; (sinh vật học) sự phát sinh tự nhiên
+abiogenetic	eibaioudʤi''netik/; tính từ; (sinh vật học) phát sinh tự nhiêneibaioudʤi''netik/; tính từ; (sinh vật học) phát sinh tự nhiên
+abiogenetically	eibaioudʤi''netikəli/; phó từ; (sinh vật học) phát sinh tự nhiêneibaioudʤi''netikəli/; phó từ; (sinh vật học) phát sinh tự nhiên
+abiogenist	eibai''ɔdʤinist/; danh từ; người tin thuyết phát sinh tự nhiêneibai''ɔdʤinist/; danh từ; người tin thuyết phát sinh tự nhiên
+abiogenous	eibai''ɔdʤiəns/; tính từ; (sinh vật học) phát sinh tự nhiêneibai''ɔdʤiəns/; tính từ; (sinh vật học) phát sinh tự nhiên
+abiogeny	eibai''ɔdʤini/; danh từ; (sinh vật học) sự phát sinh tự nhiêneibaiou''dʤenisis/ (abiogeny) /eibai''ɔdʤini/; danh từ; (sinh vật học) sự phát sinh tự nhiên
+abiological	æbaiə''lɔdʤikəl/; tính từ; phi sinh vật họcæbaiə''lɔdʤikəl/; tính từ; phi sinh vật học
+abiologically	@abiologically; xem abiological
+abioses	@abiosis; xem abiotic
+abioseston	@abioseston; danh từ; (sinh học) chất vô cơ lơ lửng
+abiosis	@abiosis; xem abiotic
+abiotic	æbai''ɔtik/; tính từ; vô sinhæbai''ɔtik/; tính từ; vô sinh
+abiotically	@abiotically; xem abiotic
+abiotrophic	@abiotrophic; tính từ; kiệt sức sống; suy sức sống
+abirritant	@abirritant; danh từ; thuốc giảm kích thích
+abirritate	@abirritate; ngoại động từ; giảm kích thích
+abirritation	@abirritation; danh từ; sự giảm kích thích
+abject	nghèo xác nghèo xơ thấp hèn đê tiện đáng khinh; khốn khổ khốn nạn;in abject poverty+ nghèo rớt mồng tơi nghèo xác nghèo xơ
+abjection	sự đê tiện sự thấp hèn sự đê tiện
+abjections	sự đê tiện sự thấp hèn sự đê tiện
+abjectly	khốn nạn đê tiện; khốn khổ khốn nạn
+abjectness	sự khốn nạn sự thấp hèn sự đê tiện sự đáng khinh; sự khốn khổ sự khốn nạn
+abjudicate	@abjudicate; ngoại động từ; tuyên bố từ bỏ; thề bỏ đạo
+abjuration	sự bội đạoæbdʤuə''reiʃn/; danh từ; sự tuyên bố bỏ sự thề bỏ; (tôn giáo) sự thề bỏ đạo sự bội đạo
+abjurations	sự bội đạoæbdʤuə''reiʃn/; danh từ; sự tuyên bố bỏ sự thề bỏ; (tôn giáo) sự thề bỏ đạo sự bội đạo
+abjure	lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi nguyện bỏ;to abjure one''s religion+ bỏ đạo;to abjure one''s rights+ tuyên bố từ bỏ quyền lợi của mình; rút lui (ý kiến lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi
+abjured	lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi nguyện bỏ;to abjure one''s religion+ bỏ đạo;to abjure one''s rights+ tuyên bố từ bỏ quyền lợi của mình; rút lui (ý kiến lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi
+abjurer	@abjurer; xem abjure
+abjures	lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi nguyện bỏ;to abjure one''s religion+ bỏ đạo;to abjure one''s rights+ tuyên bố từ bỏ quyền lợi của mình; rút lui (ý kiến lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi
+abjuring	lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi nguyện bỏ;to abjure one''s religion+ bỏ đạo;to abjure one''s rights+ tuyên bố từ bỏ quyền lợi của mình; rút lui (ý kiến lời hứa...);to abjure one''s opinion+ rút lui ý kiến; thề bỏ (đất nước) đi mãi mãi
+ablactation	æblæk''teiʃn/; danh từ; sự cai sữa; sự cạn sữaæblæk''teiʃn/; danh từ; sự cai sữa; sự cạn sữa
+ablastous	@ablastous; tính từ; (thực vật) không mầm
+ablate	@ablate /æb''leit/; ngoại động từ; (y học) cắt bỏ
+ablated	@ablate /æb''leit/; ngoại động từ; (y học) cắt bỏ
+ablates	@ablate /æb''leit/; ngoại động từ; (y học) cắt bỏ
+ablating	@ablate /æb''leit/; ngoại động từ; (y học) cắt bỏ
+ablation	địa chất) sự tiêu mòn (sông băng)địa chất) sự tải mòn (đá); (địa lýđịa chất) sự tiêu mòn (sông băng)
+ablations	địa chất) sự tiêu mòn (sông băng)địa chất) sự tải mòn (đá); (địa lýđịa chất) sự tiêu mòn (sông băng)
+ablative	@ablative /''æblətiv/; tính từ; (ngôn ngữ học) (thuộc) cách công cụ; danh từ; (ngôn ngữ học) cách công cụ
+ablatives	@ablative /''æblətiv/; tính từ; (ngôn ngữ học) (thuộc) cách công cụ; danh từ; (ngôn ngữ học) cách công cụ
+ablaut	@ablaut /''æblaut/; danh từ; (ngôn ngữ học) aplau
+ablaze	rừng rực;ablaze with anger+ bừng bừng nổi giận bốc cháy; sáng chói lọi; bừng bừng rừng rực;ablaze with anger+ bừng bừng nổi giận
+able	có đủ thẩm quyền có tài;an able co-op manager+ một chủ nhiệm hợp tác xã có năng lực;an able writer+ một nhà văn có tài;to be able to+ có thể;to be able to do something+ có thể làm được việc gì; (pháp lý) có đủ tư cách có đủ thẩm quyền
+able seaman	@able seaman; danh từ; (vt là ab) thủy thủ hạng nhất
+able-bodied	@able-bodied /''eibl''bɔdid/; tính từ; khoẻ mạnh; đủ tiêu chuẩn sức khoẻ (làm nghĩa vụ quân sự);able-bodied seaman+ ((viết tắt) a.b.) thuỷ thủ hạng nhất
+ablegate	@ablegate; danh từ; đại sứ giáo hoàng
+ablen	cá vảy bạc (họ cá chép) cá vảy bạc (họ cá chép)
+ableness	tài năng; sự cường tráng tài năng; sự cường tráng
+ablepsia	@ablepsia; danh từ; tật mù; chứng mù
+abler	có đủ thẩm quyền có tài;an able co-op manager+ một chủ nhiệm hợp tác xã có năng lực;an able writer+ một nhà văn có tài;to be able to+ có thể;to be able to do something+ có thể làm được việc gì; (pháp lý) có đủ tư cách có đủ thẩm quyền
+ablest	có đủ thẩm quyền có tài;an able co-op manager+ một chủ nhiệm hợp tác xã có năng lực;an able writer+ một nhà văn có tài;to be able to+ có thể;to be able to do something+ có thể làm được việc gì; (pháp lý) có đủ tư cách có đủ thẩm quyền
+ablet	cá vảy bạc (họ cá chép) cá vảy bạc (họ cá chép)
+ablings	có thể có thể
+ablins	có thể có thể
+abloom	@abloom /ə''blu:m/; tính từ &amp; phó từ; đang nở (ra) hoa
+abluent	thuốc tẩy tẩy sạch; danh từ; chất tẩy thuốc tẩy
+ablush	@ablush /ə''blʌʃ/; tính từ &amp; phó từ; thẹn đỏ mặt
+ablution	sự rửa ráy (thường) số nhiều; (tôn giáo) lễ rửa tội; lễ tắm gội; lễ rửa sạch các đồ thờ; (tôn giáo) nước tắm gội; nước rửa đồ thờ; ((thường) số nhiều) sự tắm gội sự rửa ráy
+ablutionary	@ablutionary; xem ablution
+ablutions	sự rửa ráy (thường) số nhiều; (tôn giáo) lễ rửa tội; lễ tắm gội; lễ rửa sạch các đồ thờ; (tôn giáo) nước tắm gội; nước rửa đồ thờ; ((thường) số nhiều) sự tắm gội sự rửa ráy
+ably	tài tình có tài khéo léo tài tình
+abm	@abm; (vt của anti-ballistic missile) tên lửa chống tên lửa đạn đạo
+abnegate	@abnegate /''æbnigeit/; ngoại động từ; nhịn (cái gì); bỏ (đạo); từ bỏ (quyền lợi...); từ chối không nhận (đặc quyền...)
+abnegated	@abnegate /''æbnigeit/; ngoại động từ; nhịn (cái gì); bỏ (đạo); từ bỏ (quyền lợi...); từ chối không nhận (đặc quyền...)
+abnegates	@abnegate /''æbnigeit/; ngoại động từ; nhịn (cái gì); bỏ (đạo); từ bỏ (quyền lợi...); từ chối không nhận (đặc quyền...)
+abnegating	@abnegate /''æbnigeit/; ngoại động từ; nhịn (cái gì); bỏ (đạo); từ bỏ (quyền lợi...); từ chối không nhận (đặc quyền...)
+abnegation	sự xả thân ((thường) self abnegation)æbni''geiʃn/; danh từ; sự bỏ (đạo...); sự từ bỏ (quyền lợi); sự từ chối không nhận (đặc quyền...); sự quên mình sự hy sinh sự xả thân ((thường) self abnegation)
+abnegations	sự xả thân ((thường) self abnegation)æbni''geiʃn/; danh từ; sự bỏ (đạo...); sự từ bỏ (quyền lợi); sự từ chối không nhận (đặc quyền...); sự quên mình sự hy sinh sự xả thân ((thường) self abnegation)
+abnegator	@abnegator; xem abnegate
+abnegators	@abnegator; xem abnegate
+abnormal	dị thường; không chuẩn;@abnormal; bất thường; (thống kê) không chuẩn khác thường; dị thường;@abnormal; (tech) bất thường dị thường; không chuẩn;@abnormal; bất thường; (thống kê) không chuẩn
+abnormal end (abend)	@abnormal end (abend); (tech) kết thúc bất thường
+abnormal end of task	@abnormal end of task; (tech) kết thúc bất thường (một) nhiệm vụ
+abnormal end of transmission	@abnormal end of transmission; (tech) kết thúc truyền bất thường
+abnormal function	@abnormal function; (tech) chức năng/hàm số bất thường
+abnormal profits	@abnormal profits; (econ) lợi nhuận dị thường<br />+ xem super-normal profits
+abnormal propagation	@abnormal propagation; (tech) truyền lan bất thường
+abnormal reflection	@abnormal reflection; (tech) phản xạ bất thường
+abnormal refraction	@abnormal refraction; (tech) khúc xạ bất thường
+abnormal return address	@abnormal return address; (tech) địa chỉ hồi báo bất thường
+abnormal status	@abnormal status; (tech) trạng thái bất thường
+abnormal termination	@abnormal termination; (tech) cắt dứt bất thường
+abnormalcy	quái vật sự khác thường; sự dị thường; vật kỳ quái quái vật
+abnormalities	quái vật sự khác thường; sự dị thường; vật kỳ quái quái vật
+abnormality	quái vật sự khác thường; sự dị thường; vật kỳ quái quái vật
+abnormally	khác thường khác thường
+abnormities	quái vật sự khác thường; sự dị thường; vật kỳ quái quái vật
+abnormity	quái vật sự khác thường; sự dị thường; vật kỳ quái quái vật
+abo	sỉ nhục) lóng sỉ nhục)
+aboard	máy bay...);to go aboard a ship+ lên tàu;to travel aboard a special train+ đi du lịch trên một chuyến xe lửa đặc biệt trên boong tàu trên thuyền trên xe lửa; trên máy bay;to go aboard+ lên tàu lên boong; dọc theo; gần kế;close (hard) aboard+ nằm kế sát;to keep the land aboard+ đi dọc theo bờ;all aboard!+ đề nghị mọi người lên tàu!;to fall aboard of a ship+ va phải một chiếc tàu khác; giới từ; lên trên (tàu thuỷ xe lửa máy bay...);to go aboard a ship+ lên tàu;to travel aboard a special train+ đi du lịch trên một chuyến xe lửa đặc biệt
+abode	chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công) sự lưu lại; thời quá khứ &amp; động tính từ quá khứ của abide</q></n></i></f></c><c><f><i><n><q>@abide /ə''baid/; nội động từ (abode; abode abide); tồn tại; kéo dài;this mistake will not abide for ever+ sai lầm này sẽ không thể kéo dài mãi được; (+ by) tôn trọng giữ tuân theo chịu theo; trung thành với;to abide by one''s friend+ trung thành với bạn; (từ cổnghĩa cổ) ở ngụ tại;to abide with somebody+ ở với ai; ngoại động từ; chờ chờ đợi;to abide one''s time+ chờ thời cơ; chịu đựng chịu;we can''t abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn; chống đỡ được (cuộc tấn công)
+abodes	sự lưu lại; thời quá khứ &amp; động tính từ quá khứ của abide sự lưu lại; thời quá khứ &amp; động tính từ quá khứ của abide
+abohm	@abohm; (tech) abôm (1 abôm = 10 lũy thừa -9 ôm)
+aboil	@aboil /ə''bɔil/; tính từ &amp; phó từ; đang sôi
+abolish	huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo bãi bỏ huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo
+abolishable	có thể huỷ bỏ có thể bãi bỏ có thể huỷ bỏ
+abolished	huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo bãi bỏ huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo
+abolisher	người huỷ bỏ người bãi bỏ người huỷ bỏ
+abolishers	người huỷ bỏ người bãi bỏ người huỷ bỏ
+abolishes	huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo bãi bỏ huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo
+abolishing	huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo bãi bỏ huỷ bỏ;to abolish the exploitation of man by man+ thủ tiêu chế độ người bóc lột người;to abolish acontract+ huỷ bỏ một bản giao kèo
+abolishment	sự huỷ bỏ sự bãi bỏ sự huỷ bỏ
+abolition	sự huỷ bỏ;abolition of taxes+ sự bãi bỏ thuế;abolition of slavery+ sự thủ tiêu chế độ nô lệæbə''liʃn/; danh từ; sự thủ tiêu sự bãi bỏ sự huỷ bỏ;abolition of taxes+ sự bãi bỏ thuế;abolition of slavery+ sự thủ tiêu chế độ nô lệ
+abolitionary	@abolitionary; xem abolition
+abolitionise	nghĩa mỹ) làm cho theo chủ nghĩa bãi nôæbə''liʃənaiz/ (abolitionise) /æbə''liʃənaiz/; ngoại động từ; (từ mỹnghĩa mỹ) làm cho theo chủ nghĩa bãi nô
+abolitionism	æbə''liʃənizm/; danh từ; (sử học) chủ nghĩa bãi nôæbə''liʃənizm/; danh từ; (sử học) chủ nghĩa bãi nô
+abolitionist	æbə''liʃənist/; danh từ; người theo chủ nghĩa bãi nôæbə''liʃənist/; danh từ; người theo chủ nghĩa bãi nô
+abolitionists	æbə''liʃənist/; danh từ; người theo chủ nghĩa bãi nôæbə''liʃənist/; danh từ; người theo chủ nghĩa bãi nô
+abolitionize	nghĩa mỹ) làm cho theo chủ nghĩa bãi nôæbə''liʃənaiz/ (abolitionise) /æbə''liʃənaiz/; ngoại động từ; (từ mỹnghĩa mỹ) làm cho theo chủ nghĩa bãi nô
+abolitions	sự huỷ bỏ;abolition of taxes+ sự bãi bỏ thuế;abolition of slavery+ sự thủ tiêu chế độ nô lệæbə''liʃn/; danh từ; sự thủ tiêu sự bãi bỏ sự huỷ bỏ;abolition of taxes+ sự bãi bỏ thuế;abolition of slavery+ sự thủ tiêu chế độ nô lệ
+abomasa	@abomasum; danh từ; dạ múi khế túi (động vật nhai lại)
+abomasum	@abomasum; danh từ; dạ múi khế túi (động vật nhai lại)
+abominable	rất xấu;abominable weather+ thời tiết rất xấu;an abominable meal+ bữa cơm tồi kinh tởm;an abominable crime tội ác ghê tởm+ (thông tục) tồi tồi tệ rất xấu;abominable weather+ thời tiết rất xấu;an abominable meal+ bữa cơm tồi
+abominable snowman	@abominable snowman; danh từ; người tuyết (tương truyền là động vật to cao)
+abominableness	sự kinh tởm; (thông tục) sự tồi tệ sự kinh tởm; (thông tục) sự tồi tệ
+abominably	@abominably; phó từ; một cách đáng ghê tởm
+abominate	kinh tởm ghét mặt; tính từ; (thơ ca) ghê tởm kinh tởm
+abominated	kinh tởm ghét mặt; tính từ; (thơ ca) ghê tởm kinh tởm
+abominates	kinh tởm ghét mặt; tính từ; (thơ ca) ghê tởm kinh tởm
+abominating	kinh tởm ghét mặt; tính từ; (thơ ca) ghê tởm kinh tởm
+abomination	sự kinh tởm; sự ghét cay ghét đắng;to hold something in abomination+ ghê tởm cái gì; vật kinh tởm; việc ghê tởm; hành động đáng ghétbɔmi''neiʃn/; danh từ; sự ghê tởm sự kinh tởm; sự ghét cay ghét đắng;to hold something in abomination+ ghê tởm cái gì; vật kinh tởm; việc ghê tởm; hành động đáng ghét
+abominations	sự kinh tởm; sự ghét cay ghét đắng;to hold something in abomination+ ghê tởm cái gì; vật kinh tởm; việc ghê tởm; hành động đáng ghétbɔmi''neiʃn/; danh từ; sự ghê tởm sự kinh tởm; sự ghét cay ghét đắng;to hold something in abomination+ ghê tởm cái gì; vật kinh tởm; việc ghê tởm; hành động đáng ghét
+abominator	@abominator; xem abominate
+abominators	@abominator; xem abominate
+abonent	@abonent; (tech) người thuê bao; người dùng đầu cuối
+aboral	@aboral; tính từ; (sinh học) xa miệng; đối miệng
+aboriginal	nghĩa hiếm) thổ sảnæbə''ridʤənl/; tính từ; (thuộc) thổ dân; (thuộc) thổ sản (thuộc) đặc sản;the aboriginal inhabitants of a country+ thổ dân của một nước;tea is an aboriginal product of phutho+ chè là một đặc sản của phú thọ; ban sơ nguyên thuỷ cổ sơ; danh từ; thổ dân; (từ hiếmnghĩa hiếm) thổ sản
+aboriginality	@aboriginality; danh từ; đặc điểm nguyên sơ; tính thuần phát
+aboriginally	@aboriginally; xem aboriginal
+aborigines	æbə''ridʤini:z/; danh từ số nhiều; thổ dân;indians are the aborigines of america+ người da đỏ là thổ dân của châu mỹ; thổ sảnæbə''ridʤini:z/; danh từ số nhiều; thổ dân;indians are the aborigines of america+ người da đỏ là thổ dân của châu mỹ; thổ sản
+abort	bỏ dở thui; ngoại động từ; làm sẩy thai phá thai;@abort; (tech) hủy bỏ ngưng nửa chừng bỏ dở
+aborted	bỏ dở thui</q></n></i></f></c><c><f><i><n><q>@abort /ə''bɔ:t/; nội động từ; sẩy thai; đẻ non ((nghĩa đen) &amp; (nghĩa bóng)); (sinh vật học) không phát triển thui; ngoại động từ; làm sẩy thai phá thai;@abort; (tech) hủy bỏ ngưng nửa chừng bỏ dở
+aborticide	@aborticide /ə''bɔ:tisaid/; danh từ; thuốc giết thai
+abortifacient	làm sẩy thai; danh từ; thuốc phá thai làm sẩy thai; danh từ; thuốc phá thai
+abortifacients	làm sẩy thai; danh từ; thuốc phá thai làm sẩy thai; danh từ; thuốc phá thai
+abortin	@abortin; danh từ; chất sẩy thai; abotin
+aborting	bỏ dở thui; ngoại động từ; làm sẩy thai phá thai;@abort; (tech) hủy bỏ ngưng nửa chừng bỏ dở
+abortion	ý đồ...); (sinh vật học) tình trạng phát triển không đầy đủ sự phá thai; sự nạo thai; người lùn tịt; đứa bé đẻ non vật đẻ non; vật dị dạng quái thai; sự chết non chết yểu sự sớm thất bại (của một kế hoạch ý đồ...); (sinh vật học) tình trạng phát triển không đầy đủ
+abortion mechanism	@abortion mechanism; (tech) cơ năng bỏ dở
+abortionist	@abortionist /ə''bɔ:ʃənist/; danh từ; người phá thai
+abortionists	@abortionist /ə''bɔ:ʃənist/; danh từ; người phá thai
+abortions	ý đồ...); (sinh vật học) tình trạng phát triển không đầy đủ sự phá thai; sự nạo thai; người lùn tịt; đứa bé đẻ non vật đẻ non; vật dị dạng quái thai; sự chết non chết yểu sự sớm thất bại (của một kế hoạch ý đồ...); (sinh vật học) tình trạng phát triển không đầy đủ
+abortive	chết non chết yểu; sớm thất bại;an abortive plan+ một kế hoạch sớm thất bại; (sinh vật học) không phát triển đầy đủ;an abortive organ+ một cơ quan không phát triển đầy đủ;@abortive; (tech) bỏ dở chết non chết yểu; sớm thất bại;an abortive plan+ một kế hoạch sớm thất bại; (sinh vật học) không phát triển đầy đủ;an abortive organ+ một cơ quan không phát triển đầy đủ;@abortive; (tech) bỏ dở
+abortive subexit	@abortive subexit; (tech) lối thoát phụ khi bỏ dở
+abortively	@abortively; phó từ; non yểu
+abortiveness	sự chết non chết yểu; (sinh vật học) sự không phát triển đầy đủ sự chết non chết yểu; (sinh vật học) sự không phát triển đầy đủ
+aborts	bỏ dở thui; ngoại động từ; làm sẩy thai phá thai;@abort; (tech) hủy bỏ ngưng nửa chừng bỏ dở
+aboulia	@aboulia /ə''bauliə/ (abulia) /ə''bu:ljə/; danh từ; (y học) chứng mất ý chí
+abound	đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm with) có rất nhiều có thừa nhan nhản lúc nhúc đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm
+abounded	đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm with) có rất nhiều có thừa nhan nhản lúc nhúc đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm
+abounding	đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm phong phú thừa thãi</q></n></i></f></c><c><f><i><n><q>@abound /ə''baund/; nội động từ; (+ in with) có rất nhiều có thừa nhan nhản lúc nhúc đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm
+abounds	đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm with) có rất nhiều có thừa nhan nhản lúc nhúc đầy dẫy;coal abounds in our country+ than đá có rất nhiều ở nước ta;to abound in courage+ có thừa can đảm
+about	đối với; a.five per cent chừng trăm phần trăm quanh quẩn đây đó rải rác;he is somewhere about+ anh ta ở quanh quẩn đâu đó;rumours are about+ đây đó có tiếng đồn (về việc gì); đằng sau;about turn!+ đằng sau quay; khoảng chừng gần;about forty+ khoảng 40;it is about two o''clock+ bây giờ khoảng chừng hai giờ; vòng;to go a long way about+ đi đường vòng xa<br />!about and about; (từ mỹnghĩa mỹ) rất giống nhau<br />!to be about; bận (làm gì); đã dậy được (sau khi ốm); có mặt<br />!about right; đúng đúng đắn; tốt được; giới từ; về;to know much about vietnam+ biết nhiều về việt nam;what shall we write about?+ chúng ta sẽ viết về cái gì bây giờ?; quanh quất quanh quẩn đây đó rải rác;to walk about the garden+ đi quanh quẩn trong vườn; xung quanh;the trees about the pound+ cây cối xung quanh ao; khoảng chừng vào khoảng;about nightfall+ vào khoảng chập tối; bận đang làm (gì...);he is still about it+ hắn hãy còn bận làm việc đó;to go about one''s work+ đi làm; ở (ai); trong người (ai) theo với (ai);i have all the documents about me+ tôi có mang theo đầy đủ tài liệu;there''s something nice about him+ ở anh ta có một cái gì đó hay hay<br />!to be about to; sắp sắp sửa;the train is about to start+ xe lửa sắp khởi hành;man about town+ tay ăn chơi tay giao thiệp rộng;what are you about?+ anh muốn gì? anh cần gì?; (từ hiếmnghĩa hiếm) anh đang làm gì đấy?<br />!what about?; (xem) what; ngoại động từ; lái (thuyền...) theo hướng khác;@about; độ chừng; xung quanh; nói về đối với; a.five per cent chừng trăm phần trăm
+about-face	sự thay đổi hẳn ý kiến; nội động từ; (quân sự) quay đằng sau sự thay đổi hẳn thái độ sự thay đổi hẳn ý kiến; nội động từ; (quân sự) quay đằng sau
+about-sledge	sledʤ/; danh từ; (kỹ thuật) búa tạsledʤ/; danh từ; (kỹ thuật) búa tạ
+about-turn	sự đổi ý sự đổi ý
+about...	@about...; (tech) về...
+above	cao hơn trên đỉnh đầu;clouds are drifting above+ mây đang bay trên đỉnh đầu; ở trên;as was started above+ như đã nói rõ ở trên;as was remarked above+ như đã nhận xét ở trên; trên thiên đường; lên trên; ngược dòng (sông); lên gác;a staircase leading above+ cầu thang lên gác;you will find a bridge above+ đi ngược dòng sông anh sẽ thấy một cái cầu; trên hơn;they were all men of fifty and above+ họ tất cả đều năm mươi và trên năm mươi tuổi;over and above+ hơn nữa vả lại ngoài ra; giới từ; ở trên;the plane was above the clouds+ máy bay ở trên mây; quá vượt cao hơn;this work is above my capacity+ công việc này quá khả năng tôi;he is above all the other boys in his class+ nó vượt tất cả những đứa trẻ khác trong lớp; trên hơn;to value independence and freedom above all+ quý độc lập và tự do hơn tất cả;above all+ trước hết là trước nhất là trước tiên là<br />!above oneself; lên mặt; phởn bốc;to keep one''s head above water+ giữ cho mình được an toàn; giữ khỏi mang công mắc nợ; tính từ; ở trên kể trên nói trên;the above facts+ những sự việc kể trên;the above statements+ những lời phát biểu ở trên; danh từ; the above cái ở trên; điều kể trên; điều nói trên;@above; ở trên cao hơn
+above-board	không giấu giếm không che đậy không giấu giếm
+above-cited	đã nhắc đến đã nhắc đến
+above-ground	graund/; tính từ; ở trên mặt đất; còn sống trên đời; phó từ; ở trên mặt đất; lúc còn sống ở trên đờigraund/; tính từ; ở trên mặt đất; còn sống trên đời; phó từ; ở trên mặt đất; lúc còn sống ở trên đời
+above-mentioned	nói trên nói trên
+above-named	@above-named; tính từ; đã nói ở trên
+aboveboard	không giấu giếm adv; thẳng thắn không che đậy không giấu giếm
+aboveground	@aboveground; tính từ; ở trên mặt đất; còn sống trên đời; phó từ; ở trên mặt đất; lúc còn sống ở trên đời
+abovementioned	nói trên nói trên
+abracadabra	æbrəkə''dæbrə/; danh từ; câu thần chú; lời nói khó hiểuæbrəkə''dæbrə/; danh từ; câu thần chú; lời nói khó hiểu
+abrachia	@abrachia; danh từ; tật thiếu tay
+abrachiate	@abrachiate; tính từ; thiếu tay
+abrachius	@abrachius; danh từ; quái thai không tay
+abradant	mài mòn; danh từ; chất mài mòn mài mòn; danh từ; chất mài mòn
+abradants	mài mòn; danh từ; chất mài mòn mài mòn; danh từ; chất mài mòn
+abrade	@abrade /ə''breid/; ngoại động từ; làm trầy (da); cọ xơ ra; (kỹ thuật) mài mòn
+abraded	@abrade /ə''breid/; ngoại động từ; làm trầy (da); cọ xơ ra; (kỹ thuật) mài mòn
+abrades	@abrade /ə''breid/; ngoại động từ; làm trầy (da); cọ xơ ra; (kỹ thuật) mài mòn
+abrading	@abrade /ə''breid/; ngoại động từ; làm trầy (da); cọ xơ ra; (kỹ thuật) mài mòn
+abranchial	@abranchial /ə''bræɳkiəl/ (abranchiate) /ə''bræɳkiit/; tính từ; (động vật học) không mang
+abranchiate	@abranchiate /ə''bræɳkiəl/ (abranchiate) /ə''bræɳkiit/; tính từ; (động vật học) không mang
+abrase	@abrase; ngoại động từ; cắt mất
+abrasion	(kỹ thuật) sự mài mònđịa chất) (kỹ thuật) sự mài mòn
+abrasions	(kỹ thuật) sự mài mònđịa chất) (kỹ thuật) sự mài mòn
+abrasive	@abrasive /ə''breisiv/; tính từ; làm trầy (da); để cọ xơ ra; để mài mòn; danh từ; chất mài mòn
+abrasives	@abrasive /ə''breisiv/; tính từ; làm trầy (da); để cọ xơ ra; để mài mòn; danh từ; chất mài mòn
+abreact	@abreact; ngoại động từ; giải toả mặc cảm
+abreacted	@abreact; ngoại động từ; giải toả mặc cảm
+abreacting	@abreact; ngoại động từ; giải toả mặc cảm
+abreaction	@abreaction; danh từ; (y học) sự giải toả mặc cảm
+abreacts	@abreact; ngoại động từ; giải toả mặc cảm
+abreast	bên cạnh;to walk abreast+ đi sóng hàng với nhau;abreast the times+ theo kịp thời đại<br />!to keep abreast of (with); (xem) keep sóng hàng ngang nhau; sát nhau sát vai bên cạnh;to walk abreast+ đi sóng hàng với nhau;abreast the times+ theo kịp thời đại<br />!to keep abreast of (with); (xem) keep
+abrego	@abrego; danh từ; (động vật) cá ngừ vây dài
+abridge	làm tắt cô gọn tóm tắt; hạn chế giảm bớt (quyền...); lấy tước;to abridge somebody of his rights+ tước quyền lợi của ai;@abridge; rút gọn làm tắt
+abridged	làm tắt cô gọn tóm tắt; hạn chế giảm bớt (quyền...); lấy tước;to abridge somebody of his rights+ tước quyền lợi của ai;@abridge; rút gọn làm tắt
+abridgement	sự giảm bớt sự cô gọn sự tóm tắt; bài tóm tắt sách sách tóm tắt; sự hạn chế sự giảm bớt
+abridgements	sự giảm bớt sự cô gọn sự tóm tắt; bài tóm tắt sách sách tóm tắt; sự hạn chế sự giảm bớt
+abridger	@abridger; xem abridge
+abridges	làm tắt cô gọn tóm tắt; hạn chế giảm bớt (quyền...); lấy tước;to abridge somebody of his rights+ tước quyền lợi của ai;@abridge; rút gọn làm tắt
+abridging	tước;to abridge somebody of his rights+ tước quyền lợi của ai;@abridge; rút gọn cô gọn tóm tắt; hạn chế giảm bớt (quyền...); lấy tước;to abridge somebody of his rights+ tước quyền lợi của ai;@abridge; rút gọn làm tắt</q></n></i></f></c>');
+abridgments	sự giảm bớt sự cô gọn sự tóm tắt; bài tóm tắt sách sách tóm tắt; sự hạn chế sự giảm bớt
+abroach	khui một thùng rượu khui một thùng rượu
+abroad	hoàn toàn lầm lẫn<br />!from abroad; từ nước ngoài;these machines were brought from abroad+ những chiếc máy này mang từ nước ngoài vào ra nước ngoài;to live abroad+ sống ở nước ngoài;to go abroad+ đi ra nước ngoài; khắp nơi đang truyền đi khắp nơi;there is a runmour abroad that...+ khắp nơi đang có tin đồn rằng...;the schooimaster is abroad+ việc học hành bây giờ đang trở thành phổ biến; ngoài trời (đối với trong nhà);life abroad is very healthy+ sống ở ngoài trời tốt cho sức khoẻ; (thông tục) nghĩ sai nhầm tưởng lầm;to be all abroad+ nghĩ sai hoàn toàn hoàn toàn lầm lẫn<br />!from abroad; từ nước ngoài;these machines were brought from abroad+ những chiếc máy này mang từ nước ngoài vào
+abrogable	@abrogable; tính từ; có thể hủy bỏ
+abrogate	thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật huỷ bỏ thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật
+abrogated	thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật huỷ bỏ thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật
+abrogates	thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật huỷ bỏ thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật
+abrogating	thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật huỷ bỏ thủ tiêu; bài trừ;backward customs musr be abrogated+ phải bài trừ những hủ tục;to abrogate a law+ huỷ bỏ một đạo luật
+abrogation	sự thủ tiêu; sự bài trừæbrou''geiʃn/; danh từ; sự bãi bỏ sự huỷ bỏ sự thủ tiêu; sự bài trừ
+abrogations	sự thủ tiêu; sự bài trừæbrou''geiʃn/; danh từ; sự bãi bỏ sự huỷ bỏ sự thủ tiêu; sự bài trừ
+abrogative	@abrogative; tính từ; bị hủy bỏ
+abrupt	bị chặt cụt (cây...) đột ngột; vội vã;an abrupt turn+ chỗ ngoặc bất ngờ;an abrupt departure+ sự ra đi vội vã (đột ngột); cộc lốc lấc cấc thô lỗ;an abrupt answers+ câu trả lời cộc lốc;abrupt manners+ cách cư xử lấc cấc; dốc đứng hiểm trở gian nan;abrupt coast+ bờ biển dốc đứng;the road to science is very abrupt+ con đường đi tới khoa học rất gian nan; trúc trắc rời rạc (văn); bị đốn bị chặt cụt; như thể bị đốn bị chặt cụt (cây...)
+abrupt junction	@abrupt junction; (tech) tiếp giáp dốc thẳng đứng
+abrupt junction diode	@abrupt junction diode; (tech) đèn hai cực tiếp giáp dốc thẳng đứng
+abruption	sự gãy rời sự gãy rời
+abruptly	xấc xược đột ngột; lấc cấc xấc xược
+abruptness	sự rời rạc (văn) sự đột ngột sự vội vã; tính cộc lốc tính lấc cấc; sự thô lỗ; thế dốc đứng sự hiểm trở; sự gian nan; sự trúc trắc sự rời rạc (văn)
+abscess	@abscess /''æbsis/; danh từ; (y học) áp xe; (kỹ thuật) chỗ rỗ (ở kim loại)
+abscessed	@abscessed; tính từ; (y học) bị áp-xe; bị rỗ
