@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color: indigo;
+    -fx-text-fill: white;
+    -fx-background-radius: 0;
+}
+
+.text-area {
+    -fx-font: normal bold 20px 'serif';
+}
+.text-field {
+    -fx-font: normal bold 20px 'serif';
+}

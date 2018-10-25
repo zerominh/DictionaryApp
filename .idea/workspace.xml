@@ -7,12 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="278f3a29-5cc1-4ad5-9144-c4efe84a279c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zero/DictionaryCommandline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zero/DictionaryCommandline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DictionaryApp_jar/DictionaryApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/DictionaryApp_jar/DictionaryApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DictionaryApp/com/zero/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DictionaryApp/com/zero/Dictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DictionaryApp/com/zero/DictionaryManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DictionaryApp/com/zero/DictionaryManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zero/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zero/Dictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zero/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zero/DictionaryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zero/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zero/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dictionaries.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../read.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,110 +92,142 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1696087194">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.147" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.60" value="2" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="1" />
+          <entry key="css" value="2" />
+          <entry key="fxml" value="5" />
+          <entry key="java" value="47" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="JAVA" value="47" />
+          <entry key="Manifest" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="157" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="157" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="170" column="33" selection-start-line="170" selection-start-column="33" selection-end-line="170" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryCommandline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="45" column="62" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#insertFromCommandline#0;class#DictionaryCommandline#0" />
-                <element signature="method#dictionaryBasic#0;class#DictionaryCommandline#0" />
-                <element signature="method#dictionaryAdvanced#0;class#DictionaryCommandline#0" />
-                <element signature="method#addWordToDictionaryFromCommandLine#0;class#DictionaryCommandline#0" />
-                <element signature="e#1382#1383#0" expanded="true" />
-                <element signature="e#1454#1455#0" expanded="true" />
-                <element signature="method#dictionarySearcher#0;class#DictionaryCommandline#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryManagement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="161" column="48" selection-start-line="161" selection-start-column="38" selection-end-line="161" selection-end-column="48" />
-              <folding>
-                <element signature="method#insertFromCommandline#0;class#DictionaryManagement#0" />
-                <element signature="method#showAllWords#0;class#DictionaryManagement#0" />
-                <element signature="method#addWordToDictionaryFromCommandline#0;class#DictionaryManagement#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zero/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="178" column="50" selection-start-line="178" selection-start-column="50" selection-end-line="178" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1098#2309#0" />
-                <element signature="e#2346#2438#0" />
-                <element signature="e#2469#2562#0" />
-                <element signature="method#onButtonSearchClicked#0;class#Controller#0" />
-                <element signature="method#SwitchFunc#0;class#Controller#0" />
-                <element signature="method#searchWordInTextField#0;class#Controller#0" />
-                <element signature="method#searchFirstSubWordAndUpdateListView#0;class#Controller#0" />
-                <element signature="method#refreshListView#0;class#Controller#0" />
-                <element signature="method#onButtonSearchFuncClicked#0;class#Controller#0" />
-                <element signature="method#onButtonDeleteFuncClicked#0;class#Controller#0" />
-                <element signature="method#onButtonAddFuncClicked#0;class#Controller#0" />
-                <element signature="method#onButtonEditFuncClicked#0;class#Controller#0" />
-                <element signature="method#deleteWord#0;class#Controller#0" />
-                <element signature="method#editWord#0;class#Controller#0" />
-                <element signature="method#addWord#0;class#Controller#0" />
-                <element signature="method#onClickedTranslate#0;class#Controller#0" />
-                <element signature="method#formatTextArea#0;class#Controller#0" />
-              </folding>
+            <state relative-caret-position="-342">
+              <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/translate.css">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/application/Platform.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="129">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/Tranlsate.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zero/Mode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="48">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zero/sample.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="893">
+              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zero/Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+              <folding>
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zero/ControllerTranslate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zero/GTTS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-688">
+              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zero/translate.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="80" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="80" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zero/WordLabel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -202,36 +235,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="79" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="79" />
+            <state relative-caret-position="48">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zero/Dictionary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="70" column="50" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="50" />
-              <folding>
-                <element signature="class#WordComparator#0;class#Dictionary#0" />
-                <element signature="method#Dictionary#0;class#Dictionary#0" />
-                <element signature="method#getWordAt#0;class#Dictionary#0" />
-                <element signature="method#findMeaningOfWord#0;class#Dictionary#0" />
-                <element signature="method#modifyWord#0;class#Dictionary#0" />
-                <element signature="method#searchFirstSubWord#0;class#Dictionary#0" />
               </folding>
             </state>
           </provider>
@@ -257,11 +264,15 @@
       <find>textArea</find>
       <find>explainTextArea</find>
       <find>label</find>
+      <find>onclick</find>
+      <find>gtts</find>
       <find>wordLabel</find>
+      <find>onClickedTranslate</find>
+      <find>translate</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -278,17 +289,17 @@
         <option value="$PROJECT_DIR$/src/com/zero/ControllerTranslate.java" />
         <option value="$PROJECT_DIR$/src/dictionaries.txt" />
         <option value="$PROJECT_DIR$/src/com/zero/GTTS.java" />
-        <option value="$PROJECT_DIR$/src/com/zero/Dictionary.java" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/src/com/zero/translate.css" />
         <option value="$PROJECT_DIR$/src/com/zero/DictionaryApplication.java" />
         <option value="$PROJECT_DIR$/src/com/zero/Tranlsate.java" />
         <option value="$PROJECT_DIR$/src/com/zero/style.css" />
         <option value="$PROJECT_DIR$/src/com/zero/Utils.java" />
-        <option value="$PROJECT_DIR$/src/com/zero/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/zero/Dictionary.java" />
         <option value="$PROJECT_DIR$/src/com/zero/DictionaryManagement.java" />
         <option value="$PROJECT_DIR$/src/com/zero/DictionaryCommandline.java" />
         <option value="$PROJECT_DIR$/src/com/zero/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/zero/Controller.java" />
       </list>
     </option>
   </component>
@@ -298,10 +309,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1386" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="332" />
+    <option name="width" value="774" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -310,7 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -330,10 +339,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zero" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DictionaryApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DictionaryApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DictionaryApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,11 +362,12 @@
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="dictionaryapp" />
+    <property name="SearchEverywhereHistoryKey" value="tranlsate&#9;FILE&#9;file://C:/Users/Pham Long/Documents/GitHub/DictionaryApp/src/com/zero/Tranlsate.java&#10;tranl&#9;FILE&#9;file://C:/Users/Pham Long/Documents/GitHub/DictionaryApp/src/com/zero/Tranlsate.java&#10;Tranlsate&#9;FILE&#9;file://C:/Users/Pham Long/Documents/GitHub/DictionaryApp/src/com/zero/Tranlsate.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539741915697" />
-    <property name="last_opened_file_path" value="E:/Data/UET/Ky3/web/4" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540407156777" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Code/Java/DictionaryFX" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -375,7 +397,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DictionaryApplication">
+    <configuration name="DictionaryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zero.DictionaryApplication" />
+      <module name="DictionaryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.zero.Main" />
       <module name="DictionaryApp" />
@@ -386,8 +421,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DictionaryApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DictionaryApplication" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -431,16 +471,27 @@
       <workItem from="1539170335093" duration="3227000" />
       <workItem from="1539266262861" duration="5803000" />
       <workItem from="1539736493784" duration="5153000" />
+      <workItem from="1540109582777" duration="2303000" />
+      <workItem from="1540135020318" duration="14357000" />
+      <workItem from="1540192496106" duration="586000" />
+      <workItem from="1540201922495" duration="4419000" />
+      <workItem from="1540216071896" duration="1930000" />
+      <workItem from="1540232435175" duration="743000" />
+      <workItem from="1540305652437" duration="3725000" />
+      <workItem from="1540324843460" duration="6024000" />
+      <workItem from="1540353900334" duration="1908000" />
+      <workItem from="1540387263033" duration="7610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84757000" />
+    <option name="totallyTimeSpent" value="128362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21417798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18731117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,15 +500,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32874617" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.63149846" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924472" weight="0.32626426" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.7798165" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007553" side_tool="true" weight="0.32626426" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32874617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -481,27 +532,9 @@
     <entry file="file://$PROJECT_DIR$/out/production/DictionaryApp/com/zero/Word.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="314" column="26" selection-start-line="314" selection-start-column="26" selection-end-line="314" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Comparator.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Function.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collections.java" />
     <entry file="file://$PROJECT_DIR$/out/production/DictionaryApp/com/zero/DictionaryCommandline.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -511,20 +544,8 @@
     <entry file="file://$PROJECT_DIR$/out/production/DictionaryApp/com/zero/Main.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/text/Text.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="126" column="11" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="1968" column="71" selection-start-line="1968" selection-start-column="67" selection-end-line="1968" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/text/Text.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/out/production/DictionaryApp/com/zero/DictionaryManagement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -532,64 +553,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/event/EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="37" column="68" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/MultipleSelectionModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="125" column="83" lean-forward="true" selection-start-line="125" selection-start-column="22" selection-end-line="125" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/SelectionModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="115" column="27" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/Button.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/event/EventHandler.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/MultipleSelectionModel.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/SelectionModel.java" />
     <entry file="file://$PROJECT_DIR$/out/production/DictionaryApp/dictionaries.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/WordLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaryapp.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/module_dictionaryapp.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -609,42 +582,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="2259" column="23" selection-start-line="2259" selection-start-column="20" selection-end-line="2259" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="3121" column="33" selection-start-line="3121" selection-start-column="25" selection-end-line="3121" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/translate.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/ControllerTranslate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Class.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/fxml/FXMLLoader.java" />
     <entry file="jar://$PROJECT_DIR$/src/java-speech-api-1.13.0-SNAPSHOT.jar!/com/darkprograms/speech/synthesiser/SynthesiserV2.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
@@ -652,50 +591,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/GTTS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-        </state>
-      </provider>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/Alert.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zero/translate.css" />
+    <entry file="file://$PROJECT_DIR$/dictionaryapp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dictionaries.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+      <provider editor-type-id="LargeFileEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/Alert.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/control/Label.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="221" column="49" selection-start-line="221" selection-start-column="40" selection-end-line="221" selection-end-column="49" />
+        <state relative-caret-position="-413">
+          <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="314" column="26" selection-start-line="314" selection-start-column="26" selection-end-line="314" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="2866" column="18" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryCommandline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="62" column="73" lean-forward="true" selection-start-line="62" selection-start-column="73" selection-end-line="62" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/java-speech-api-1.13.0-SNAPSHOT.jar!/com/darkprograms/speech/translator/GoogleTranslate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="108" column="24" lean-forward="true" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="116" column="41" selection-start-line="116" selection-start-column="41" selection-end-line="116" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaryapp.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zero/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="53" column="46" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getInputWord#0;class#Utils#0" />
-          </folding>
+        <state relative-caret-position="656">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/translate.css">
+    <entry file="file://$PROJECT_DIR$/src/com/zero/Word.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="275">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/control/Labeled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="791" column="28" selection-start-line="791" selection-start-column="28" selection-end-line="791" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zero/Tranlsate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="224">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -703,107 +716,70 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zero/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/translate.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="416">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="80" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/WordLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zero/ControllerTranslate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="79" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="64">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/style.css">
+    <entry file="file://$PROJECT_DIR$/src/com/zero/GTTS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="-688">
+          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zero/Mode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/application/Platform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zero/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="178" column="50" selection-start-line="178" selection-start-column="50" selection-end-line="178" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1098#2309#0" />
-            <element signature="e#2346#2438#0" />
-            <element signature="e#2469#2562#0" />
-            <element signature="method#onButtonSearchClicked#0;class#Controller#0" />
-            <element signature="method#SwitchFunc#0;class#Controller#0" />
-            <element signature="method#searchWordInTextField#0;class#Controller#0" />
-            <element signature="method#searchFirstSubWordAndUpdateListView#0;class#Controller#0" />
-            <element signature="method#refreshListView#0;class#Controller#0" />
-            <element signature="method#onButtonSearchFuncClicked#0;class#Controller#0" />
-            <element signature="method#onButtonDeleteFuncClicked#0;class#Controller#0" />
-            <element signature="method#onButtonAddFuncClicked#0;class#Controller#0" />
-            <element signature="method#onButtonEditFuncClicked#0;class#Controller#0" />
-            <element signature="method#deleteWord#0;class#Controller#0" />
-            <element signature="method#editWord#0;class#Controller#0" />
-            <element signature="method#addWord#0;class#Controller#0" />
-            <element signature="method#onClickedTranslate#0;class#Controller#0" />
-            <element signature="method#formatTextArea#0;class#Controller#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryCommandline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="45" column="62" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#insertFromCommandline#0;class#DictionaryCommandline#0" />
-            <element signature="method#dictionaryBasic#0;class#DictionaryCommandline#0" />
-            <element signature="method#dictionaryAdvanced#0;class#DictionaryCommandline#0" />
-            <element signature="method#addWordToDictionaryFromCommandLine#0;class#DictionaryCommandline#0" />
-            <element signature="e#1382#1383#0" expanded="true" />
-            <element signature="e#1454#1455#0" expanded="true" />
-            <element signature="method#dictionarySearcher#0;class#DictionaryCommandline#0" />
-          </folding>
+        <state relative-caret-position="-342">
+          <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zero/Dictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="70" column="50" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="50" />
+        <state relative-caret-position="191">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
           <folding>
-            <element signature="class#WordComparator#0;class#Dictionary#0" />
-            <element signature="method#Dictionary#0;class#Dictionary#0" />
-            <element signature="method#getWordAt#0;class#Dictionary#0" />
-            <element signature="method#findMeaningOfWord#0;class#Dictionary#0" />
-            <element signature="method#modifyWord#0;class#Dictionary#0" />
-            <element signature="method#searchFirstSubWord#0;class#Dictionary#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/DictionaryManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="161" column="48" selection-start-line="161" selection-start-column="38" selection-end-line="161" selection-end-column="48" />
-          <folding>
-            <element signature="method#insertFromCommandline#0;class#DictionaryManagement#0" />
-            <element signature="method#showAllWords#0;class#DictionaryManagement#0" />
-            <element signature="method#addWordToDictionaryFromCommandline#0;class#DictionaryManagement#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zero/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="170" column="33" selection-start-line="170" selection-start-column="33" selection-end-line="170" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -815,10 +791,10 @@
         <settings>
           <artifact-editor>
             <show-content>
-              <type id="library" />
+              <type id="jpa-descriptors" />
               <type id="artifact" />
               <type id="javaee-facet-resources" />
-              <type id="jpa-descriptors" />
+              <type id="library" />
             </show-content>
           </artifact-editor>
           <last-edited>DictionaryApp:jar</last-edited>
