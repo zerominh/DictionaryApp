@@ -5,6 +5,8 @@
       <element id="module-output" name="DictionaryApp" />
       <element id="file-copy" path="$PROJECT_DIR$/src/jl1.0.jar" />
       <element id="file-copy" path="$PROJECT_DIR$/src/java-speech-api-1.13.0-SNAPSHOT.jar" />
+      <element id="library" level="project" name="jfoenix-8.0.7" />
+      <element id="module-output" name="DictionaryFX" />
     </root>
   </artifact>
 </component>

@@ -12,7 +12,7 @@ public class DictionaryApplication extends Application {
         String css = this.getClass().getResource("style.css").toExternalForm();
 
         primaryStage.setTitle("Dictionary");
-        Scene scene = new Scene(root, 500, 500);
+        Scene scene = new Scene(root, 700, 500);
         scene.getStylesheets().add(css);
         primaryStage.setScene(scene);
         primaryStage.show();
